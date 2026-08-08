@@ -1,0 +1,7718 @@
+{
+  "Afghanistan": {
+    "total_attacks": 13688,
+    "top_groups": [
+      {
+        "group": "Taliban",
+        "count": 7423
+      },
+      {
+        "group": "Taleban",
+        "count": 448
+      },
+      {
+        "group": "Government of Afghanistan",
+        "count": 360
+      },
+      {
+        "group": "Khorasan Chapter of the Islamic State",
+        "count": 242
+      },
+      {
+        "group": "IS",
+        "count": 145
+      }
+    ],
+    "deadliest_group": "Taliban",
+    "deadliest_group_killed": 29269,
+    "peak_years": [
+      {
+        "year": 2015,
+        "attacks": 1928
+      },
+      {
+        "year": 2014,
+        "attacks": 1824
+      },
+      {
+        "year": 2016,
+        "attacks": 1617
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 33
+  },
+  "Albania": {
+    "total_attacks": 80,
+    "top_groups": [
+      {
+        "group": "Muslim extremists",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Muslim extremists",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1997,
+        "attacks": 41
+      },
+      {
+        "year": 1998,
+        "attacks": 7
+      },
+      {
+        "year": 1996,
+        "attacks": 6
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 1
+  },
+  "Algeria": {
+    "total_attacks": 2745,
+    "top_groups": [
+      {
+        "group": "Algerian Islamic Extremists",
+        "count": 373
+      },
+      {
+        "group": "Armed Islamic Group (GIA)",
+        "count": 224
+      },
+      {
+        "group": "Salafist Group for Preaching and Fighting (GSPC)",
+        "count": 212
+      },
+      {
+        "group": "Al-Qaida in the Islamic Maghreb (AQIM)",
+        "count": 179
+      },
+      {
+        "group": "Islamist extremists",
+        "count": 155
+      }
+    ],
+    "deadliest_group": "Armed Islamic Group (GIA)",
+    "deadliest_group_killed": 1445,
+    "peak_years": [
+      {
+        "year": 1997,
+        "attacks": 344
+      },
+      {
+        "year": 1994,
+        "attacks": 227
+      },
+      {
+        "year": 1992,
+        "attacks": 215
+      }
+    ],
+    "latest_year": 2019,
+    "latest_year_attacks": 1
+  },
+  "Andorra": {
+    "total_attacks": 1,
+    "top_groups": [
+      {
+        "group": "International Revolutionary Action Group (GARI)",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "International Revolutionary Action Group (GARI)",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1974,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1974,
+    "latest_year_attacks": 1
+  },
+  "Angola": {
+    "total_attacks": 523,
+    "top_groups": [
+      {
+        "group": "National Union for the Total Independence of Angola (UNITA)",
+        "count": 394
+      },
+      {
+        "group": "Government of Angola",
+        "count": 24
+      },
+      {
+        "group": "Front for the Liberation of the Enclave of Cabinda (FLEC)",
+        "count": 15
+      },
+      {
+        "group": "Popular Movement for the Liberation of Angola",
+        "count": 9
+      },
+      {
+        "group": "Front for the Liberation of Cabinda / Cabinda Armed Forces (FLEC-FAC)",
+        "count": 7
+      }
+    ],
+    "deadliest_group": "National Union for the Total Independence of Angola (UNITA)",
+    "deadliest_group_killed": 2700,
+    "peak_years": [
+      {
+        "year": 1990,
+        "attacks": 205
+      },
+      {
+        "year": 1992,
+        "attacks": 50
+      },
+      {
+        "year": 2001,
+        "attacks": 40
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 2
+  },
+  "Antigua and Barbuda": {
+    "total_attacks": 1,
+    "top_groups": [],
+    "deadliest_group": "Unknown",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1992,
+    "latest_year_attacks": 1
+  },
+  "Argentina": {
+    "total_attacks": 1012,
+    "top_groups": [
+      {
+        "group": "Los Monos",
+        "count": 197
+      },
+      {
+        "group": "Montoneros (Argentina)",
+        "count": 116
+      },
+      {
+        "group": "Ejercito Revolucionaria del Pueblo (ERP) (Argentina)",
+        "count": 83
+      },
+      {
+        "group": "People's Revolutionary Organization",
+        "count": 14
+      },
+      {
+        "group": "Peronist Armed Forces (FAP)",
+        "count": 9
+      }
+    ],
+    "deadliest_group": "Montoneros (Argentina)",
+    "deadliest_group_killed": 212,
+    "peak_years": [
+      {
+        "year": 2022,
+        "attacks": 132
+      },
+      {
+        "year": 1987,
+        "attacks": 80
+      },
+      {
+        "year": 1974,
+        "attacks": 71
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 41
+  },
+  "Armenia": {
+    "total_attacks": 24,
+    "top_groups": [
+      {
+        "group": "Armenian Guerrillas",
+        "count": 1
+      },
+      {
+        "group": "Armenian militants",
+        "count": 1
+      },
+      {
+        "group": "Armenian nationalists",
+        "count": 1
+      },
+      {
+        "group": "Sasna Tsrer",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Armenian nationalists",
+    "deadliest_group_killed": 8,
+    "peak_years": [
+      {
+        "year": 1994,
+        "attacks": 4
+      },
+      {
+        "year": 1992,
+        "attacks": 2
+      },
+      {
+        "year": 1998,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 2
+  },
+  "Australia": {
+    "total_attacks": 115,
+    "top_groups": [
+      {
+        "group": "Jihadi-inspired extremists",
+        "count": 6
+      },
+      {
+        "group": "Black September",
+        "count": 5
+      },
+      {
+        "group": "Croatian Nationalists",
+        "count": 3
+      },
+      {
+        "group": "Informal Anarchist Federation",
+        "count": 3
+      },
+      {
+        "group": "Extortionists",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Jihadi-inspired extremists",
+    "deadliest_group_killed": 9,
+    "peak_years": [
+      {
+        "year": 2015,
+        "attacks": 14
+      },
+      {
+        "year": 1994,
+        "attacks": 9
+      },
+      {
+        "year": 2016,
+        "attacks": 9
+      }
+    ],
+    "latest_year": 2018,
+    "latest_year_attacks": 1
+  },
+  "Austria": {
+    "total_attacks": 116,
+    "top_groups": [
+      {
+        "group": "Neo-Nazi extremists",
+        "count": 11
+      },
+      {
+        "group": "Kurdistan Workers' Party (PKK)",
+        "count": 8
+      },
+      {
+        "group": "Black September",
+        "count": 8
+      },
+      {
+        "group": "Right-wing extremists",
+        "count": 4
+      },
+      {
+        "group": "Justice Commandos for the Armenian Genocide",
+        "count": 3
+      }
+    ],
+    "deadliest_group": "Abu Nidal Organization (ANO)",
+    "deadliest_group_killed": 5,
+    "peak_years": [
+      {
+        "year": 1995,
+        "attacks": 12
+      },
+      {
+        "year": 1982,
+        "attacks": 11
+      },
+      {
+        "year": 1992,
+        "attacks": 8
+      }
+    ],
+    "latest_year": 2020,
+    "latest_year_attacks": 1
+  },
+  "Azerbaijan": {
+    "total_attacks": 49,
+    "top_groups": [
+      {
+        "group": "Azerbaijan Guerrillas",
+        "count": 7
+      },
+      {
+        "group": "Armenian Guerrillas",
+        "count": 2
+      },
+      {
+        "group": "Forest Brothers",
+        "count": 2
+      },
+      {
+        "group": "Opposition Group",
+        "count": 1
+      },
+      {
+        "group": "Sandval (union) Movement",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Armenian Guerrillas",
+    "deadliest_group_killed": 97,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 12
+      },
+      {
+        "year": 1994,
+        "attacks": 11
+      },
+      {
+        "year": 2001,
+        "attacks": 4
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 2
+  },
+  "Bahamas": {
+    "total_attacks": 5,
+    "top_groups": [],
+    "deadliest_group": "Unknown",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1997,
+        "attacks": 2
+      },
+      {
+        "year": 1976,
+        "attacks": 1
+      },
+      {
+        "year": 1981,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2013,
+    "latest_year_attacks": 1
+  },
+  "Bahrain": {
+    "total_attacks": 207,
+    "top_groups": [
+      {
+        "group": "Al-Ashtar Brigades",
+        "count": 12
+      },
+      {
+        "group": "Hezbollah",
+        "count": 6
+      },
+      {
+        "group": "February 14th Movement",
+        "count": 5
+      },
+      {
+        "group": "Saraya Waad Allah",
+        "count": 3
+      },
+      {
+        "group": "Islamic State of Iraq and the Levant (ISIL)",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Al-Ashtar Brigades",
+    "deadliest_group_killed": 6,
+    "peak_years": [
+      {
+        "year": 2013,
+        "attacks": 52
+      },
+      {
+        "year": 2014,
+        "attacks": 42
+      },
+      {
+        "year": 2012,
+        "attacks": 26
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 21
+  },
+  "Bangladesh": {
+    "total_attacks": 1694,
+    "top_groups": [
+      {
+        "group": "Shanti Bahini - Peace Force",
+        "count": 99
+      },
+      {
+        "group": "Pro Hartal Activists",
+        "count": 92
+      },
+      {
+        "group": "Bangladesh Nationalist Party (BNP)",
+        "count": 84
+      },
+      {
+        "group": "Opposition Group",
+        "count": 81
+      },
+      {
+        "group": "Jamaat-E-Islami (Bangladesh)",
+        "count": 70
+      }
+    ],
+    "deadliest_group": "Shanti Bahini - Peace Force",
+    "deadliest_group_killed": 439,
+    "peak_years": [
+      {
+        "year": 2015,
+        "attacks": 469
+      },
+      {
+        "year": 1996,
+        "attacks": 161
+      },
+      {
+        "year": 2013,
+        "attacks": 139
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 2
+  },
+  "Barbados": {
+    "total_attacks": 3,
+    "top_groups": [
+      {
+        "group": "Coordination of the United Revolutionary Organization (CORU)",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Coordination of the United Revolutionary Organization (CORU)",
+    "deadliest_group_killed": 73,
+    "peak_years": [
+      {
+        "year": 1976,
+        "attacks": 2
+      },
+      {
+        "year": 1992,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1992,
+    "latest_year_attacks": 1
+  },
+  "Belarus": {
+    "total_attacks": 13,
+    "top_groups": [
+      {
+        "group": "Friends of Freedom",
+        "count": 2
+      },
+      {
+        "group": "Belarusian Liberation Army",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Friends of Freedom",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 2012,
+        "attacks": 3
+      },
+      {
+        "year": 1997,
+        "attacks": 2
+      },
+      {
+        "year": 2010,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2012,
+    "latest_year_attacks": 3
+  },
+  "Belgium": {
+    "total_attacks": 156,
+    "top_groups": [
+      {
+        "group": "Communist Combattant Cells (CCC) (Belgium)",
+        "count": 21
+      },
+      {
+        "group": "Kurdistan Workers' Party (PKK)",
+        "count": 6
+      },
+      {
+        "group": "International Revolutionary Action Group (GARI)",
+        "count": 5
+      },
+      {
+        "group": "Justice Commandos for the Armenian Genocide",
+        "count": 4
+      },
+      {
+        "group": "Black September",
+        "count": 3
+      }
+    ],
+    "deadliest_group": "Islamic State of Iraq and the Levant (ISIL)",
+    "deadliest_group_killed": 39,
+    "peak_years": [
+      {
+        "year": 1985,
+        "attacks": 21
+      },
+      {
+        "year": 1984,
+        "attacks": 10
+      },
+      {
+        "year": 1992,
+        "attacks": 9
+      }
+    ],
+    "latest_year": 2023,
+    "latest_year_attacks": 1
+  },
+  "Belize": {
+    "total_attacks": 8,
+    "top_groups": [],
+    "deadliest_group": "Unknown",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1991,
+        "attacks": 3
+      },
+      {
+        "year": 1992,
+        "attacks": 2
+      },
+      {
+        "year": 1980,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2013,
+    "latest_year_attacks": 1
+  },
+  "Benin": {
+    "total_attacks": 22,
+    "top_groups": [
+      {
+        "group": "JNIM",
+        "count": 13
+      },
+      {
+        "group": "IS",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "JNIM",
+    "deadliest_group_killed": 37,
+    "peak_years": [
+      {
+        "year": 2024,
+        "attacks": 6
+      },
+      {
+        "year": 2023,
+        "attacks": 5
+      },
+      {
+        "year": 1994,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 2
+  },
+  "Bhutan": {
+    "total_attacks": 6,
+    "top_groups": [
+      {
+        "group": "The United Revolutionary Front of Bhutan",
+        "count": 2
+      },
+      {
+        "group": "National Democratic Front of Bodoland (NDFB)",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "The United Revolutionary Front of Bhutan",
+    "deadliest_group_killed": 5,
+    "peak_years": [
+      {
+        "year": 2008,
+        "attacks": 3
+      },
+      {
+        "year": 2006,
+        "attacks": 1
+      },
+      {
+        "year": 2011,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2014,
+    "latest_year_attacks": 1
+  },
+  "Bolivia": {
+    "total_attacks": 314,
+    "top_groups": [
+      {
+        "group": "Tupac Katari Guerrilla Army (EGTK)",
+        "count": 22
+      },
+      {
+        "group": "Bolivian Socialist Falange",
+        "count": 8
+      },
+      {
+        "group": "Political Activists",
+        "count": 6
+      },
+      {
+        "group": "Shining Path (SL)",
+        "count": 6
+      },
+      {
+        "group": "Zarate Willka Armed Forces of Liberation",
+        "count": 5
+      }
+    ],
+    "deadliest_group": "Coca Farmers",
+    "deadliest_group_killed": 5,
+    "peak_years": [
+      {
+        "year": 1989,
+        "attacks": 40
+      },
+      {
+        "year": 1992,
+        "attacks": 38
+      },
+      {
+        "year": 1980,
+        "attacks": 35
+      }
+    ],
+    "latest_year": 2012,
+    "latest_year_attacks": 1
+  },
+  "Bosnia-Herzegovina": {
+    "total_attacks": 159,
+    "top_groups": [
+      {
+        "group": "Serbian guerrillas",
+        "count": 8
+      },
+      {
+        "group": "Muslim extremists",
+        "count": 5
+      },
+      {
+        "group": "Bosnian Serbs",
+        "count": 2
+      },
+      {
+        "group": "Croatians",
+        "count": 2
+      },
+      {
+        "group": "Serbian irregulars",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Serbian guerrillas",
+    "deadliest_group_killed": 26,
+    "peak_years": [
+      {
+        "year": 1997,
+        "attacks": 42
+      },
+      {
+        "year": 1996,
+        "attacks": 33
+      },
+      {
+        "year": 1992,
+        "attacks": 22
+      }
+    ],
+    "latest_year": 2015,
+    "latest_year_attacks": 6
+  },
+  "Botswana": {
+    "total_attacks": 10,
+    "top_groups": [
+      {
+        "group": "African National Congress (South Africa)",
+        "count": 1
+      },
+      {
+        "group": "Students",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Students",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1988,
+        "attacks": 3
+      },
+      {
+        "year": 1989,
+        "attacks": 2
+      },
+      {
+        "year": 1974,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1995,
+    "latest_year_attacks": 1
+  },
+  "Brazil": {
+    "total_attacks": 925,
+    "top_groups": [
+      {
+        "group": "Comando Vermelho",
+        "count": 322
+      },
+      {
+        "group": "PCC",
+        "count": 117
+      },
+      {
+        "group": "Bonde do Maluco",
+        "count": 91
+      },
+      {
+        "group": "Bonde dos 40",
+        "count": 82
+      },
+      {
+        "group": "Government of Brazil",
+        "count": 40
+      }
+    ],
+    "deadliest_group": "Comando Vermelho",
+    "deadliest_group_killed": 338,
+    "peak_years": [
+      {
+        "year": 2023,
+        "attacks": 178
+      },
+      {
+        "year": 2022,
+        "attacks": 131
+      },
+      {
+        "year": 2024,
+        "attacks": 110
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 78
+  },
+  "Brunei": {
+    "total_attacks": 6,
+    "top_groups": [
+      {
+        "group": "Black September",
+        "count": 5
+      }
+    ],
+    "deadliest_group": "Black September",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1972,
+        "attacks": 5
+      },
+      {
+        "year": 1992,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1992,
+    "latest_year_attacks": 1
+  },
+  "Bulgaria": {
+    "total_attacks": 52,
+    "top_groups": [
+      {
+        "group": "Anti-Muslim extremists",
+        "count": 1
+      },
+      {
+        "group": "Armenian Secret Army for the Liberation of Armenia",
+        "count": 1
+      },
+      {
+        "group": "Elos security firm",
+        "count": 1
+      },
+      {
+        "group": "Hezbollah",
+        "count": 1
+      },
+      {
+        "group": "Justice Commandos for the Armenian Genocide",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Hezbollah",
+    "deadliest_group_killed": 7,
+    "peak_years": [
+      {
+        "year": 1996,
+        "attacks": 12
+      },
+      {
+        "year": 1990,
+        "attacks": 5
+      },
+      {
+        "year": 1991,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 1
+  },
+  "Burkina Faso": {
+    "total_attacks": 714,
+    "top_groups": [
+      {
+        "group": "JNIM",
+        "count": 356
+      },
+      {
+        "group": "Government of Burkina Faso",
+        "count": 147
+      },
+      {
+        "group": "IS",
+        "count": 124
+      },
+      {
+        "group": "Koglweogo",
+        "count": 35
+      },
+      {
+        "group": "Ansar al-Islam (Burkina Faso)",
+        "count": 11
+      }
+    ],
+    "deadliest_group": "JNIM",
+    "deadliest_group_killed": 3145,
+    "peak_years": [
+      {
+        "year": 2023,
+        "attacks": 170
+      },
+      {
+        "year": 2019,
+        "attacks": 132
+      },
+      {
+        "year": 2025,
+        "attacks": 82
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 82
+  },
+  "Burundi": {
+    "total_attacks": 1000,
+    "top_groups": [
+      {
+        "group": "Government of Burundi",
+        "count": 376
+      },
+      {
+        "group": "Hutu extremists",
+        "count": 107
+      },
+      {
+        "group": "Party for the Liberation of the Hutu People (PALIPEHUTU)",
+        "count": 38
+      },
+      {
+        "group": "National Liberation Front (FNL) (Burundi)",
+        "count": 32
+      },
+      {
+        "group": "Tutsi extremists",
+        "count": 18
+      }
+    ],
+    "deadliest_group": "Hutu extremists",
+    "deadliest_group_killed": 1414,
+    "peak_years": [
+      {
+        "year": 2015,
+        "attacks": 102
+      },
+      {
+        "year": 1995,
+        "attacks": 83
+      },
+      {
+        "year": 2016,
+        "attacks": 83
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 45
+  },
+  "Cambodia": {
+    "total_attacks": 259,
+    "top_groups": [
+      {
+        "group": "Khmer Rouge",
+        "count": 158
+      },
+      {
+        "group": "Cambodian Freedom Fighters (CFF)",
+        "count": 5
+      },
+      {
+        "group": "Cambodian People's Party (CPP)",
+        "count": 4
+      },
+      {
+        "group": "Gunmen",
+        "count": 4
+      },
+      {
+        "group": "National United Front for an Independent, Neutral, Peaceful, and Cooperative Cambodia (FUNCINPEC)",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Khmer Rouge",
+    "deadliest_group_killed": 353,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 67
+      },
+      {
+        "year": 1995,
+        "attacks": 56
+      },
+      {
+        "year": 1994,
+        "attacks": 39
+      }
+    ],
+    "latest_year": 2013,
+    "latest_year_attacks": 2
+  },
+  "Cameroon": {
+    "total_attacks": 1116,
+    "top_groups": [
+      {
+        "group": "JAS",
+        "count": 328
+      },
+      {
+        "group": "Boko Haram",
+        "count": 233
+      },
+      {
+        "group": "Ambazonia insurgents",
+        "count": 209
+      },
+      {
+        "group": "Government of Cameroon",
+        "count": 203
+      },
+      {
+        "group": "IS",
+        "count": 44
+      }
+    ],
+    "deadliest_group": "Boko Haram",
+    "deadliest_group_killed": 2117,
+    "peak_years": [
+      {
+        "year": 2023,
+        "attacks": 141
+      },
+      {
+        "year": 2020,
+        "attacks": 128
+      },
+      {
+        "year": 2017,
+        "attacks": 94
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 93
+  },
+  "Canada": {
+    "total_attacks": 96,
+    "top_groups": [
+      {
+        "group": "Jihadi-inspired extremists",
+        "count": 7
+      },
+      {
+        "group": "Armenian Secret Army for the Liberation of Armenia",
+        "count": 4
+      },
+      {
+        "group": "Army of God",
+        "count": 3
+      },
+      {
+        "group": "Anti-Muslim extremists",
+        "count": 3
+      },
+      {
+        "group": "Earth Liberation Front (ELF)",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Sikh Extremists",
+    "deadliest_group_killed": 329,
+    "peak_years": [
+      {
+        "year": 2017,
+        "attacks": 12
+      },
+      {
+        "year": 2016,
+        "attacks": 6
+      },
+      {
+        "year": 1982,
+        "attacks": 5
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 12
+  },
+  "Central African Republic": {
+    "total_attacks": 544,
+    "top_groups": [
+      {
+        "group": "CPC",
+        "count": 75
+      },
+      {
+        "group": "Anti-Balaka Militia",
+        "count": 71
+      },
+      {
+        "group": "Lord's Resistance Army (LRA)",
+        "count": 49
+      },
+      {
+        "group": "Government of Central African Republic",
+        "count": 46
+      },
+      {
+        "group": "Seleka",
+        "count": 32
+      }
+    ],
+    "deadliest_group": "Anti-Balaka Militia",
+    "deadliest_group_killed": 720,
+    "peak_years": [
+      {
+        "year": 2014,
+        "attacks": 94
+      },
+      {
+        "year": 2018,
+        "attacks": 49
+      },
+      {
+        "year": 2015,
+        "attacks": 48
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 23
+  },
+  "Chad": {
+    "total_attacks": 120,
+    "top_groups": [
+      {
+        "group": "Boko Haram",
+        "count": 33
+      },
+      {
+        "group": "IS",
+        "count": 13
+      },
+      {
+        "group": "JAS",
+        "count": 12
+      },
+      {
+        "group": "United Front for Democratic Change (FUC)",
+        "count": 4
+      },
+      {
+        "group": "Government of Chad",
+        "count": 4
+      }
+    ],
+    "deadliest_group": "Boko Haram",
+    "deadliest_group_killed": 383,
+    "peak_years": [
+      {
+        "year": 2015,
+        "attacks": 27
+      },
+      {
+        "year": 2006,
+        "attacks": 11
+      },
+      {
+        "year": 2019,
+        "attacks": 9
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 3
+  },
+  "Chile": {
+    "total_attacks": 2365,
+    "top_groups": [
+      {
+        "group": "Manuel Rodriguez Patriotic Front (FPMR)",
+        "count": 829
+      },
+      {
+        "group": "Movement of the Revolutionary Left (MIR) (Chile)",
+        "count": 305
+      },
+      {
+        "group": "United Popular Action Movement",
+        "count": 109
+      },
+      {
+        "group": "Mapuche activists",
+        "count": 18
+      },
+      {
+        "group": "Anarchists",
+        "count": 10
+      }
+    ],
+    "deadliest_group": "Manuel Rodriguez Patriotic Front (FPMR)",
+    "deadliest_group_killed": 93,
+    "peak_years": [
+      {
+        "year": 1984,
+        "attacks": 563
+      },
+      {
+        "year": 1986,
+        "attacks": 243
+      },
+      {
+        "year": 1985,
+        "attacks": 232
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 12
+  },
+  "China": {
+    "total_attacks": 252,
+    "top_groups": [
+      {
+        "group": "Uighur Separatists",
+        "count": 86
+      },
+      {
+        "group": "Turkestan Islamic Party",
+        "count": 6
+      },
+      {
+        "group": "Eastern Turkistan Islamic Movement (ETIM)",
+        "count": 4
+      },
+      {
+        "group": "Kachin Independence Army (KIA)",
+        "count": 2
+      },
+      {
+        "group": "Koreans",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Uighur Separatists",
+    "deadliest_group_killed": 388,
+    "peak_years": [
+      {
+        "year": 1996,
+        "attacks": 62
+      },
+      {
+        "year": 2014,
+        "attacks": 37
+      },
+      {
+        "year": 2008,
+        "attacks": 20
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 6
+  },
+  "Colombia": {
+    "total_attacks": 9697,
+    "top_groups": [
+      {
+        "group": "Revolutionary Armed Forces of Colombia (FARC)",
+        "count": 2468
+      },
+      {
+        "group": "National Liberation Army of Colombia (ELN)",
+        "count": 1529
+      },
+      {
+        "group": "M-19 (Movement of April 19)",
+        "count": 543
+      },
+      {
+        "group": "EGC",
+        "count": 462
+      },
+      {
+        "group": "FARC-EMC",
+        "count": 358
+      }
+    ],
+    "deadliest_group": "Revolutionary Armed Forces of Colombia (FARC)",
+    "deadliest_group_killed": 5644,
+    "peak_years": [
+      {
+        "year": 1997,
+        "attacks": 598
+      },
+      {
+        "year": 1992,
+        "attacks": 523
+      },
+      {
+        "year": 1989,
+        "attacks": 492
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 255
+  },
+  "Comoros": {
+    "total_attacks": 5,
+    "top_groups": [
+      {
+        "group": "Separatists",
+        "count": 2
+      },
+      {
+        "group": "Rebel Military Unit",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Rebel Military Unit",
+    "deadliest_group_killed": 1,
+    "peak_years": [
+      {
+        "year": 1997,
+        "attacks": 3
+      },
+      {
+        "year": 1992,
+        "attacks": 1
+      },
+      {
+        "year": 1994,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1997,
+    "latest_year_attacks": 3
+  },
+  "Costa Rica": {
+    "total_attacks": 67,
+    "top_groups": [
+      {
+        "group": "Coordination of the United Revolutionary Organization (CORU)",
+        "count": 5
+      },
+      {
+        "group": "Student Front of the People",
+        "count": 4
+      },
+      {
+        "group": "Revolutionary Commandos of Solidarity",
+        "count": 3
+      },
+      {
+        "group": "Sandinista National Liberation Front (FSLN)",
+        "count": 3
+      },
+      {
+        "group": "Farabundo Marti National Liberation Front (FMLN)",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Student Front of the People",
+    "deadliest_group_killed": 4,
+    "peak_years": [
+      {
+        "year": 1976,
+        "attacks": 12
+      },
+      {
+        "year": 1981,
+        "attacks": 10
+      },
+      {
+        "year": 1982,
+        "attacks": 6
+      }
+    ],
+    "latest_year": 2001,
+    "latest_year_attacks": 1
+  },
+  "Croatia": {
+    "total_attacks": 57,
+    "top_groups": [
+      {
+        "group": "Serbian guerrillas",
+        "count": 6
+      },
+      {
+        "group": "Serbian extremists",
+        "count": 6
+      },
+      {
+        "group": "Serbian Nationalists",
+        "count": 2
+      },
+      {
+        "group": "Al-Gama'at al-Islamiyya (IG)",
+        "count": 1
+      },
+      {
+        "group": "Retired Soldier",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Serbian extremists",
+    "deadliest_group_killed": 182,
+    "peak_years": [
+      {
+        "year": 1991,
+        "attacks": 26
+      },
+      {
+        "year": 1997,
+        "attacks": 8
+      },
+      {
+        "year": 1992,
+        "attacks": 4
+      }
+    ],
+    "latest_year": 2013,
+    "latest_year_attacks": 2
+  },
+  "Cuba": {
+    "total_attacks": 30,
+    "top_groups": [
+      {
+        "group": "Raul Ernesto Cruz Leon, Salvadorian",
+        "count": 3
+      },
+      {
+        "group": "Counter-revolutionaries",
+        "count": 1
+      },
+      {
+        "group": "Cubans seeking escape from Cuba",
+        "count": 1
+      },
+      {
+        "group": "National Democratic Party",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Counter-revolutionaries",
+    "deadliest_group_killed": 3,
+    "peak_years": [
+      {
+        "year": 1997,
+        "attacks": 14
+      },
+      {
+        "year": 1994,
+        "attacks": 9
+      },
+      {
+        "year": 1992,
+        "attacks": 4
+      }
+    ],
+    "latest_year": 2007,
+    "latest_year_attacks": 1
+  },
+  "Cyprus": {
+    "total_attacks": 132,
+    "top_groups": [
+      {
+        "group": "Cyprus Turkish People's Movement",
+        "count": 7
+      },
+      {
+        "group": "Hezbollah",
+        "count": 6
+      },
+      {
+        "group": "National Organization of Cypriot Fighters (EOKA)",
+        "count": 6
+      },
+      {
+        "group": "Black September",
+        "count": 3
+      },
+      {
+        "group": "Iranians",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Anti-Israeli extremists",
+    "deadliest_group_killed": 16,
+    "peak_years": [
+      {
+        "year": 1990,
+        "attacks": 11
+      },
+      {
+        "year": 1991,
+        "attacks": 11
+      },
+      {
+        "year": 1987,
+        "attacks": 10
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 2
+  },
+  "Czech Republic": {
+    "total_attacks": 32,
+    "top_groups": [
+      {
+        "group": "Neo-Nazi extremists",
+        "count": 3
+      },
+      {
+        "group": "Revolutionary Cells Network (SRN)",
+        "count": 3
+      },
+      {
+        "group": "Anti-Immigrant extremists",
+        "count": 2
+      },
+      {
+        "group": "Neo-Fascists",
+        "count": 1
+      },
+      {
+        "group": "Proletarian Solidarity",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Neo-Nazi extremists",
+    "deadliest_group_killed": 2,
+    "peak_years": [
+      {
+        "year": 2014,
+        "attacks": 5
+      },
+      {
+        "year": 1997,
+        "attacks": 4
+      },
+      {
+        "year": 2015,
+        "attacks": 4
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 3
+  },
+  "Czechoslovakia": {
+    "total_attacks": 10,
+    "top_groups": [
+      {
+        "group": "Croatian Nationalists",
+        "count": 1
+      },
+      {
+        "group": "Neo-Nazi extremists",
+        "count": 1
+      },
+      {
+        "group": "Skinhead group",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Croatian Nationalists",
+    "deadliest_group_killed": 26,
+    "peak_years": [
+      {
+        "year": 1989,
+        "attacks": 4
+      },
+      {
+        "year": 1992,
+        "attacks": 3
+      },
+      {
+        "year": 1972,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1992,
+    "latest_year_attacks": 3
+  },
+  "Democratic Republic of the Congo": {
+    "total_attacks": 4537,
+    "top_groups": [
+      {
+        "group": "IS",
+        "count": 1406
+      },
+      {
+        "group": "URDPC",
+        "count": 717
+      },
+      {
+        "group": "Government of DR Congo (Zaire)",
+        "count": 512
+      },
+      {
+        "group": "AFC",
+        "count": 194
+      },
+      {
+        "group": "Allied Democratic Forces (ADF)",
+        "count": 167
+      }
+    ],
+    "deadliest_group": "IS",
+    "deadliest_group_killed": 9916,
+    "peak_years": [
+      {
+        "year": 2022,
+        "attacks": 801
+      },
+      {
+        "year": 2023,
+        "attacks": 616
+      },
+      {
+        "year": 2024,
+        "attacks": 511
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 460
+  },
+  "Denmark": {
+    "total_attacks": 41,
+    "top_groups": [
+      {
+        "group": "Anarchists",
+        "count": 4
+      },
+      {
+        "group": "Armenian Secret Army for the Liberation of Armenia",
+        "count": 4
+      },
+      {
+        "group": "Jihadi-inspired extremists",
+        "count": 3
+      },
+      {
+        "group": "Hezbollah",
+        "count": 2
+      },
+      {
+        "group": "Ninth of June Organization",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Jihadi-inspired extremists",
+    "deadliest_group_killed": 3,
+    "peak_years": [
+      {
+        "year": 1981,
+        "attacks": 6
+      },
+      {
+        "year": 1995,
+        "attacks": 6
+      },
+      {
+        "year": 1985,
+        "attacks": 4
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 1
+  },
+  "Djibouti": {
+    "total_attacks": 22,
+    "top_groups": [
+      {
+        "group": "Front for the Restoration of Unity and Democracy",
+        "count": 6
+      },
+      {
+        "group": "Afar rebels",
+        "count": 1
+      },
+      {
+        "group": "Al-Shabaab",
+        "count": 1
+      },
+      {
+        "group": "Armed Subversives",
+        "count": 1
+      },
+      {
+        "group": "Extremist Nat'list Group",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Front for the Restoration of Unity and Democracy",
+    "deadliest_group_killed": 236,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 6
+      },
+      {
+        "year": 1988,
+        "attacks": 2
+      },
+      {
+        "year": 1994,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 1
+  },
+  "Dominica": {
+    "total_attacks": 3,
+    "top_groups": [
+      {
+        "group": "Anti-Government Group",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Anti-Government Group",
+    "deadliest_group_killed": 3,
+    "peak_years": [
+      {
+        "year": 1981,
+        "attacks": 2
+      },
+      {
+        "year": 1997,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1997,
+    "latest_year_attacks": 1
+  },
+  "Dominican Republic": {
+    "total_attacks": 90,
+    "top_groups": [
+      {
+        "group": "Maximiliano Gomez Revolutionary Brigade",
+        "count": 14
+      },
+      {
+        "group": "Popular Liberation Resistance Force",
+        "count": 6
+      },
+      {
+        "group": "Strikers",
+        "count": 4
+      },
+      {
+        "group": "Dominican Popular Movement (MPD)",
+        "count": 2
+      },
+      {
+        "group": "Tony El Pelou Band",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Maximiliano Gomez Revolutionary Brigade",
+    "deadliest_group_killed": 7,
+    "peak_years": [
+      {
+        "year": 1987,
+        "attacks": 15
+      },
+      {
+        "year": 1997,
+        "attacks": 12
+      },
+      {
+        "year": 1989,
+        "attacks": 11
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 1
+  },
+  "East Germany (GDR)": {
+    "total_attacks": 38,
+    "top_groups": [
+      {
+        "group": "Internationalist Cells",
+        "count": 3
+      },
+      {
+        "group": "Extraparliamentary Opposition (APO)",
+        "count": 3
+      },
+      {
+        "group": "Red Army Faction (RAF)",
+        "count": 3
+      },
+      {
+        "group": "Neo-Nazi extremists",
+        "count": 2
+      },
+      {
+        "group": "2nd of June Movement",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "2nd of June Movement",
+    "deadliest_group_killed": 1,
+    "peak_years": [
+      {
+        "year": 1970,
+        "attacks": 12
+      },
+      {
+        "year": 1971,
+        "attacks": 4
+      },
+      {
+        "year": 1985,
+        "attacks": 4
+      }
+    ],
+    "latest_year": 1990,
+    "latest_year_attacks": 3
+  },
+  "East Timor": {
+    "total_attacks": 10,
+    "top_groups": [
+      {
+        "group": "Pro-Indonesia extremists",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Pro-Indonesia extremists",
+    "deadliest_group_killed": 4,
+    "peak_years": [
+      {
+        "year": 2000,
+        "attacks": 4
+      },
+      {
+        "year": 2003,
+        "attacks": 2
+      },
+      {
+        "year": 2007,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2008,
+    "latest_year_attacks": 1
+  },
+  "Ecuador": {
+    "total_attacks": 221,
+    "top_groups": [
+      {
+        "group": "Alfaro Vive",
+        "count": 25
+      },
+      {
+        "group": "Montoneros Patria Libre",
+        "count": 5
+      },
+      {
+        "group": "People's Revolutionary Militias (MRP)",
+        "count": 4
+      },
+      {
+        "group": "Shuar extremists",
+        "count": 3
+      },
+      {
+        "group": "Pirates",
+        "count": 3
+      }
+    ],
+    "deadliest_group": "Alfaro Vive",
+    "deadliest_group_killed": 13,
+    "peak_years": [
+      {
+        "year": 1984,
+        "attacks": 24
+      },
+      {
+        "year": 1992,
+        "attacks": 23
+      },
+      {
+        "year": 1991,
+        "attacks": 17
+      }
+    ],
+    "latest_year": 2022,
+    "latest_year_attacks": 1
+  },
+  "Egypt": {
+    "total_attacks": 2516,
+    "top_groups": [
+      {
+        "group": "Sinai Province of the Islamic State",
+        "count": 440
+      },
+      {
+        "group": "Al-Gama'at al-Islamiyya (IG)",
+        "count": 257
+      },
+      {
+        "group": "Muslim extremists",
+        "count": 103
+      },
+      {
+        "group": "Ansar Bayt al-Maqdis (Ansar Jerusalem)",
+        "count": 63
+      },
+      {
+        "group": "Muslim Militants",
+        "count": 60
+      }
+    ],
+    "deadliest_group": "Sinai Province of the Islamic State",
+    "deadliest_group_killed": 1621,
+    "peak_years": [
+      {
+        "year": 2015,
+        "attacks": 647
+      },
+      {
+        "year": 2016,
+        "attacks": 376
+      },
+      {
+        "year": 2014,
+        "attacks": 354
+      }
+    ],
+    "latest_year": 2023,
+    "latest_year_attacks": 3
+  },
+  "El Salvador": {
+    "total_attacks": 5394,
+    "top_groups": [
+      {
+        "group": "Farabundo Marti National Liberation Front (FMLN)",
+        "count": 3330
+      },
+      {
+        "group": "People's Liberation Forces (FPL)",
+        "count": 167
+      },
+      {
+        "group": "MS-13",
+        "count": 74
+      },
+      {
+        "group": "People's Revolutionary Army (ERP) (El Salvador)",
+        "count": 64
+      },
+      {
+        "group": "Death Squad",
+        "count": 58
+      }
+    ],
+    "deadliest_group": "Farabundo Marti National Liberation Front (FMLN)",
+    "deadliest_group_killed": 8019,
+    "peak_years": [
+      {
+        "year": 1980,
+        "attacks": 710
+      },
+      {
+        "year": 1981,
+        "attacks": 664
+      },
+      {
+        "year": 1982,
+        "attacks": 537
+      }
+    ],
+    "latest_year": 2022,
+    "latest_year_attacks": 68
+  },
+  "Equatorial Guinea": {
+    "total_attacks": 2,
+    "top_groups": [
+      {
+        "group": "Movement for the Emancipation of the Niger Delta (MEND)",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Movement for the Emancipation of the Niger Delta (MEND)",
+    "deadliest_group_killed": 1,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 1
+      },
+      {
+        "year": 2009,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2009,
+    "latest_year_attacks": 1
+  },
+  "Eritrea": {
+    "total_attacks": 10,
+    "top_groups": [
+      {
+        "group": "Red Sea Afar Democratic Organization (RSADO)",
+        "count": 3
+      },
+      {
+        "group": "Democratic Movement for the Liberation of the Eritrean Kunamas (DMLEK)",
+        "count": 2
+      },
+      {
+        "group": "Eritrean Salvation Front (ESF)",
+        "count": 1
+      },
+      {
+        "group": "Nomadic AFARS",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Red Sea Afar Democratic Organization (RSADO)",
+    "deadliest_group_killed": 21,
+    "peak_years": [
+      {
+        "year": 1995,
+        "attacks": 2
+      },
+      {
+        "year": 2007,
+        "attacks": 2
+      },
+      {
+        "year": 2008,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2011,
+    "latest_year_attacks": 1
+  },
+  "Estonia": {
+    "total_attacks": 16,
+    "top_groups": [
+      {
+        "group": "Fatherland",
+        "count": 1
+      },
+      {
+        "group": "Kaitseliit Paramiltary Group",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Fatherland",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1994,
+        "attacks": 6
+      },
+      {
+        "year": 1992,
+        "attacks": 2
+      },
+      {
+        "year": 1995,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2015,
+    "latest_year_attacks": 2
+  },
+  "Ethiopia": {
+    "total_attacks": 1846,
+    "top_groups": [
+      {
+        "group": "Government of Ethiopia",
+        "count": 1119
+      },
+      {
+        "group": "Government of Eritrea",
+        "count": 160
+      },
+      {
+        "group": "Fano",
+        "count": 156
+      },
+      {
+        "group": "OLA",
+        "count": 99
+      },
+      {
+        "group": "Government of Eritrea, Government of Ethiopia",
+        "count": 62
+      }
+    ],
+    "deadliest_group": "Government of Eritrea",
+    "deadliest_group_killed": 4008,
+    "peak_years": [
+      {
+        "year": 2025,
+        "attacks": 403
+      },
+      {
+        "year": 2024,
+        "attacks": 374
+      },
+      {
+        "year": 2021,
+        "attacks": 277
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 403
+  },
+  "Falkland Islands": {
+    "total_attacks": 1,
+    "top_groups": [
+      {
+        "group": "Artigas-Giachino Command",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Artigas-Giachino Command",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1983,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1983,
+    "latest_year_attacks": 1
+  },
+  "Fiji": {
+    "total_attacks": 17,
+    "top_groups": [
+      {
+        "group": "Anti-Government extremists",
+        "count": 2
+      },
+      {
+        "group": "Christian extremists",
+        "count": 2
+      },
+      {
+        "group": "Rebel Military Unit",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Rebel Military Unit",
+    "deadliest_group_killed": 7,
+    "peak_years": [
+      {
+        "year": 2000,
+        "attacks": 4
+      },
+      {
+        "year": 1987,
+        "attacks": 3
+      },
+      {
+        "year": 1991,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2001,
+    "latest_year_attacks": 1
+  },
+  "Finland": {
+    "total_attacks": 20,
+    "top_groups": [
+      {
+        "group": "Animal Liberation Front (ALF)",
+        "count": 1
+      },
+      {
+        "group": "Anti-Immigrant extremists",
+        "count": 1
+      },
+      {
+        "group": "Jihadi-inspired extremists",
+        "count": 1
+      },
+      {
+        "group": "Kurdistan Workers' Party (PKK)",
+        "count": 1
+      },
+      {
+        "group": "Neo-Fascists",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Neo-Fascists",
+    "deadliest_group_killed": 9,
+    "peak_years": [
+      {
+        "year": 2015,
+        "attacks": 9
+      },
+      {
+        "year": 2016,
+        "attacks": 3
+      },
+      {
+        "year": 2017,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 2
+  },
+  "France": {
+    "total_attacks": 2698,
+    "top_groups": [
+      {
+        "group": "Corsican National Liberation Front (FLNC)",
+        "count": 637
+      },
+      {
+        "group": "Corsican National Liberation Front- Historic Channel",
+        "count": 128
+      },
+      {
+        "group": "Separatists",
+        "count": 84
+      },
+      {
+        "group": "Resistenza",
+        "count": 73
+      },
+      {
+        "group": "Corsican Separatists",
+        "count": 63
+      }
+    ],
+    "deadliest_group": "Islamic State of Iraq and the Levant (ISIL)",
+    "deadliest_group_killed": 137,
+    "peak_years": [
+      {
+        "year": 1996,
+        "attacks": 270
+      },
+      {
+        "year": 1979,
+        "attacks": 212
+      },
+      {
+        "year": 1984,
+        "attacks": 145
+      }
+    ],
+    "latest_year": 2023,
+    "latest_year_attacks": 1
+  },
+  "French Guiana": {
+    "total_attacks": 7,
+    "top_groups": [
+      {
+        "group": "Caribbean Revolutionary Alliance (ARC)",
+        "count": 3
+      },
+      {
+        "group": "Separatists",
+        "count": 2
+      },
+      {
+        "group": "Farmers",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Caribbean Revolutionary Alliance (ARC)",
+    "deadliest_group_killed": 1,
+    "peak_years": [
+      {
+        "year": 1983,
+        "attacks": 3
+      },
+      {
+        "year": 1996,
+        "attacks": 2
+      },
+      {
+        "year": 1997,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 1997,
+    "latest_year_attacks": 2
+  },
+  "French Polynesia": {
+    "total_attacks": 3,
+    "top_groups": [
+      {
+        "group": "Anti-Nuclear extremists",
+        "count": 3
+      }
+    ],
+    "deadliest_group": "Anti-Nuclear extremists",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1995,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 1995,
+    "latest_year_attacks": 3
+  },
+  "Gabon": {
+    "total_attacks": 8,
+    "top_groups": [
+      {
+        "group": "Convention of Liberal Reformers (CLR)",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Convention of Liberal Reformers (CLR)",
+    "deadliest_group_killed": 4,
+    "peak_years": [
+      {
+        "year": 2017,
+        "attacks": 4
+      },
+      {
+        "year": 1979,
+        "attacks": 1
+      },
+      {
+        "year": 1994,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 4
+  },
+  "Gambia": {
+    "total_attacks": 4,
+    "top_groups": [
+      {
+        "group": "Government of Senegal",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Government of Senegal",
+    "deadliest_group_killed": 1,
+    "peak_years": [
+      {
+        "year": 1994,
+        "attacks": 1
+      },
+      {
+        "year": 1995,
+        "attacks": 1
+      },
+      {
+        "year": 2000,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2024,
+    "latest_year_attacks": 1
+  },
+  "Georgia": {
+    "total_attacks": 218,
+    "top_groups": [
+      {
+        "group": "Supporters of Ex-President Gamsakhurdial",
+        "count": 10
+      },
+      {
+        "group": "South Ossetian Separatists",
+        "count": 10
+      },
+      {
+        "group": "Abkhazian Separatists",
+        "count": 5
+      },
+      {
+        "group": "Georgian extremists",
+        "count": 4
+      },
+      {
+        "group": "Georgian Militants",
+        "count": 3
+      }
+    ],
+    "deadliest_group": "Abkhazian Separatists",
+    "deadliest_group_killed": 58,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 39
+      },
+      {
+        "year": 2008,
+        "attacks": 33
+      },
+      {
+        "year": 2009,
+        "attacks": 25
+      }
+    ],
+    "latest_year": 2023,
+    "latest_year_attacks": 1
+  },
+  "Germany": {
+    "total_attacks": 736,
+    "top_groups": [
+      {
+        "group": "Neo-Nazi extremists",
+        "count": 168
+      },
+      {
+        "group": "Kurdistan Workers' Party (PKK)",
+        "count": 131
+      },
+      {
+        "group": "Right-wing extremists",
+        "count": 15
+      },
+      {
+        "group": "National Socialist Underground",
+        "count": 14
+      },
+      {
+        "group": "Jihadi-inspired extremists",
+        "count": 10
+      }
+    ],
+    "deadliest_group": "Jihadi-inspired extremists",
+    "deadliest_group_killed": 18,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 156
+      },
+      {
+        "year": 1995,
+        "attacks": 147
+      },
+      {
+        "year": 1994,
+        "attacks": 79
+      }
+    ],
+    "latest_year": 2024,
+    "latest_year_attacks": 1
+  },
+  "Ghana": {
+    "total_attacks": 19,
+    "top_groups": [
+      {
+        "group": "Farighan",
+        "count": 3
+      },
+      {
+        "group": "New Patriotic Party (NPP)",
+        "count": 2
+      },
+      {
+        "group": "Al-Sunni muslim sect",
+        "count": 1
+      },
+      {
+        "group": "Muslims",
+        "count": 1
+      },
+      {
+        "group": "Ningo Tribe",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Muslims",
+    "deadliest_group_killed": 2,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 8
+      },
+      {
+        "year": 1994,
+        "attacks": 4
+      },
+      {
+        "year": 1996,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 1
+  },
+  "Greece": {
+    "total_attacks": 1275,
+    "top_groups": [
+      {
+        "group": "November 17 Revolutionary Organization (N17RO)",
+        "count": 112
+      },
+      {
+        "group": "Revolutionary People's Struggle (ELA)",
+        "count": 88
+      },
+      {
+        "group": "Anarchists",
+        "count": 50
+      },
+      {
+        "group": "Conspiracy of Cells of Fire",
+        "count": 49
+      },
+      {
+        "group": "Revolutionary Struggle",
+        "count": 24
+      }
+    ],
+    "deadliest_group": "Popular Front for the Liberation of Palestine, Gen Cmd (PFLP-GC)",
+    "deadliest_group_killed": 88,
+    "peak_years": [
+      {
+        "year": 2009,
+        "attacks": 115
+      },
+      {
+        "year": 1991,
+        "attacks": 57
+      },
+      {
+        "year": 1990,
+        "attacks": 55
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 43
+  },
+  "Grenada": {
+    "total_attacks": 5,
+    "top_groups": [],
+    "deadliest_group": "Unknown",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1980,
+        "attacks": 4
+      },
+      {
+        "year": 1983,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1983,
+    "latest_year_attacks": 1
+  },
+  "Guadeloupe": {
+    "total_attacks": 56,
+    "top_groups": [
+      {
+        "group": "Caribbean Revolutionary Alliance (ARC)",
+        "count": 19
+      },
+      {
+        "group": "Armed Group for the Liberation of Guadeloupe (GLAG)",
+        "count": 6
+      },
+      {
+        "group": "Guadeloupe Liberation Army",
+        "count": 4
+      },
+      {
+        "group": "Revolutionary Armed Organization",
+        "count": 3
+      },
+      {
+        "group": "Separatists",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Armed Group for the Liberation of Guadeloupe (GLAG)",
+    "deadliest_group_killed": 1,
+    "peak_years": [
+      {
+        "year": 1983,
+        "attacks": 17
+      },
+      {
+        "year": 1984,
+        "attacks": 14
+      },
+      {
+        "year": 1980,
+        "attacks": 9
+      }
+    ],
+    "latest_year": 1991,
+    "latest_year_attacks": 1
+  },
+  "Guatemala": {
+    "total_attacks": 2097,
+    "top_groups": [
+      {
+        "group": "Guerrilla Army of the Poor (EGP)",
+        "count": 155
+      },
+      {
+        "group": "Guatemalan National Revolutionary Unity (URNG)",
+        "count": 131
+      },
+      {
+        "group": "Revolutionary Organization of People in Arms (ORPA)",
+        "count": 115
+      },
+      {
+        "group": "Death Squad",
+        "count": 69
+      },
+      {
+        "group": "Rebel Armed Forces of Guatemala (FAR)",
+        "count": 36
+      }
+    ],
+    "deadliest_group": "Guerrilla Army of the Poor (EGP)",
+    "deadliest_group_killed": 572,
+    "peak_years": [
+      {
+        "year": 1981,
+        "attacks": 399
+      },
+      {
+        "year": 1982,
+        "attacks": 354
+      },
+      {
+        "year": 1980,
+        "attacks": 281
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 10
+  },
+  "Guinea": {
+    "total_attacks": 26,
+    "top_groups": [
+      {
+        "group": "Rebels",
+        "count": 5
+      },
+      {
+        "group": "Revolutionary United Front (RUF)",
+        "count": 2
+      },
+      {
+        "group": "Allied Democratic Forces of Guinea (RDFG)",
+        "count": 1
+      },
+      {
+        "group": "National Patriotic Front of Liberia (NPFL)",
+        "count": 1
+      },
+      {
+        "group": "Government of Guinea",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Rebels",
+    "deadliest_group_killed": 61,
+    "peak_years": [
+      {
+        "year": 2000,
+        "attacks": 12
+      },
+      {
+        "year": 1980,
+        "attacks": 2
+      },
+      {
+        "year": 1992,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2019,
+    "latest_year_attacks": 1
+  },
+  "Guinea-Bissau": {
+    "total_attacks": 9,
+    "top_groups": [],
+    "deadliest_group": "Unknown",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 2005,
+        "attacks": 4
+      },
+      {
+        "year": 2001,
+        "attacks": 1
+      },
+      {
+        "year": 2003,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2012,
+    "latest_year_attacks": 1
+  },
+  "Guyana": {
+    "total_attacks": 26,
+    "top_groups": [
+      {
+        "group": "Gunmen",
+        "count": 1
+      },
+      {
+        "group": "People's Temple",
+        "count": 1
+      },
+      {
+        "group": "Unk (men in army uniforms with arms and gas masks)",
+        "count": 1
+      },
+      {
+        "group": "Working People's Alliance (WPA)",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "People's Temple",
+    "deadliest_group_killed": 5,
+    "peak_years": [
+      {
+        "year": 1990,
+        "attacks": 5
+      },
+      {
+        "year": 1992,
+        "attacks": 4
+      },
+      {
+        "year": 2008,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 1
+  },
+  "Haiti": {
+    "total_attacks": 558,
+    "top_groups": [
+      {
+        "group": "Viv Ansanm",
+        "count": 129
+      },
+      {
+        "group": "G9",
+        "count": 61
+      },
+      {
+        "group": "400 Mawozo",
+        "count": 55
+      },
+      {
+        "group": "Gran Grif",
+        "count": 28
+      },
+      {
+        "group": "Government of Haiti",
+        "count": 22
+      }
+    ],
+    "deadliest_group": "Viv Ansanm",
+    "deadliest_group_killed": 1307,
+    "peak_years": [
+      {
+        "year": 2025,
+        "attacks": 106
+      },
+      {
+        "year": 2024,
+        "attacks": 67
+      },
+      {
+        "year": 2022,
+        "attacks": 56
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 106
+  },
+  "Honduras": {
+    "total_attacks": 364,
+    "top_groups": [
+      {
+        "group": "Lorenzo Zelaya Revolutionary Front (LZRF)",
+        "count": 40
+      },
+      {
+        "group": "M18",
+        "count": 28
+      },
+      {
+        "group": "Patriotic Morazanista Front (FPM)",
+        "count": 26
+      },
+      {
+        "group": "Cinchoneros Popular Liberation Movement",
+        "count": 22
+      },
+      {
+        "group": "MS-13",
+        "count": 13
+      }
+    ],
+    "deadliest_group": "M18",
+    "deadliest_group_killed": 50,
+    "peak_years": [
+      {
+        "year": 1982,
+        "attacks": 34
+      },
+      {
+        "year": 1983,
+        "attacks": 29
+      },
+      {
+        "year": 1989,
+        "attacks": 29
+      }
+    ],
+    "latest_year": 2024,
+    "latest_year_attacks": 17
+  },
+  "Hong Kong": {
+    "total_attacks": 26,
+    "top_groups": [
+      {
+        "group": "Pirates",
+        "count": 2
+      },
+      {
+        "group": "Chinese Pirates",
+        "count": 1
+      },
+      {
+        "group": "Vietnamese Detainees",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Pirates",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 6
+      },
+      {
+        "year": 1994,
+        "attacks": 4
+      },
+      {
+        "year": 1981,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2008,
+    "latest_year_attacks": 1
+  },
+  "Hungary": {
+    "total_attacks": 46,
+    "top_groups": [
+      {
+        "group": "Armenian Secret Army for the Liberation of Armenia",
+        "count": 1
+      },
+      {
+        "group": "Hungarian Skin Head Group",
+        "count": 1
+      },
+      {
+        "group": "Movement for the Protection of Jerusalem",
+        "count": 1
+      },
+      {
+        "group": "Serbian Gangsters",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Serbian Gangsters",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1997,
+        "attacks": 17
+      },
+      {
+        "year": 1996,
+        "attacks": 13
+      },
+      {
+        "year": 1991,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 1
+  },
+  "Iceland": {
+    "total_attacks": 4,
+    "top_groups": [
+      {
+        "group": "Sea Shepherd Conservation Society",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Sea Shepherd Conservation Society",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1983,
+        "attacks": 1
+      },
+      {
+        "year": 1986,
+        "attacks": 1
+      },
+      {
+        "year": 2012,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2014,
+    "latest_year_attacks": 1
+  },
+  "India": {
+    "total_attacks": 12531,
+    "top_groups": [
+      {
+        "group": "Communist Party of India - Maoist (CPI-Maoist)",
+        "count": 1877
+      },
+      {
+        "group": "Maoists",
+        "count": 1396
+      },
+      {
+        "group": "Sikh Extremists",
+        "count": 710
+      },
+      {
+        "group": "CPI-Maoist",
+        "count": 405
+      },
+      {
+        "group": "United Liberation Front of Assam (ULFA)",
+        "count": 357
+      }
+    ],
+    "deadliest_group": "Sikh Extremists",
+    "deadliest_group_killed": 2477,
+    "peak_years": [
+      {
+        "year": 2016,
+        "attacks": 1025
+      },
+      {
+        "year": 2017,
+        "attacks": 966
+      },
+      {
+        "year": 2015,
+        "attacks": 884
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 39
+  },
+  "Indonesia": {
+    "total_attacks": 861,
+    "top_groups": [
+      {
+        "group": "Free Aceh Movement (GAM)",
+        "count": 116
+      },
+      {
+        "group": "OPM",
+        "count": 63
+      },
+      {
+        "group": "Jemaah Islamiya (JI)",
+        "count": 57
+      },
+      {
+        "group": "Free Papua Movement (OPM-Organisasi Papua Merdeka)",
+        "count": 42
+      },
+      {
+        "group": "Muslim Militants",
+        "count": 37
+      }
+    ],
+    "deadliest_group": "Jemaah Islamiya (JI)",
+    "deadliest_group_killed": 304,
+    "peak_years": [
+      {
+        "year": 2001,
+        "attacks": 105
+      },
+      {
+        "year": 2000,
+        "attacks": 101
+      },
+      {
+        "year": 1996,
+        "attacks": 65
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 27
+  },
+  "International": {
+    "total_attacks": 1,
+    "top_groups": [
+      {
+        "group": "Al-Qaida",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Al-Qaida",
+    "deadliest_group_killed": 1,
+    "peak_years": [
+      {
+        "year": 2002,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2002,
+    "latest_year_attacks": 1
+  },
+  "Iran": {
+    "total_attacks": 959,
+    "top_groups": [
+      {
+        "group": "Government of Iran",
+        "count": 273
+      },
+      {
+        "group": "Mujahedin-e Khalq (MEK)",
+        "count": 98
+      },
+      {
+        "group": "Arab Separatists",
+        "count": 23
+      },
+      {
+        "group": "Forqan Group",
+        "count": 18
+      },
+      {
+        "group": "Counter-revolutionaries",
+        "count": 15
+      }
+    ],
+    "deadliest_group": "Government of Iran",
+    "deadliest_group_killed": 538,
+    "peak_years": [
+      {
+        "year": 2022,
+        "attacks": 155
+      },
+      {
+        "year": 1981,
+        "attacks": 108
+      },
+      {
+        "year": 1979,
+        "attacks": 82
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 14
+  },
+  "Iraq": {
+    "total_attacks": 24807,
+    "top_groups": [
+      {
+        "group": "Islamic State of Iraq and the Levant (ISIL)",
+        "count": 4797
+      },
+      {
+        "group": "Al-Qaida in Iraq",
+        "count": 632
+      },
+      {
+        "group": "Islamic State of Iraq (ISI)",
+        "count": 145
+      },
+      {
+        "group": "IS",
+        "count": 126
+      },
+      {
+        "group": "Asa'ib Ahl al-Haqq",
+        "count": 67
+      }
+    ],
+    "deadliest_group": "Islamic State of Iraq and the Levant (ISIL)",
+    "deadliest_group_killed": 31058,
+    "peak_years": [
+      {
+        "year": 2014,
+        "attacks": 3933
+      },
+      {
+        "year": 2016,
+        "attacks": 3360
+      },
+      {
+        "year": 2013,
+        "attacks": 2852
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 5
+  },
+  "Ireland": {
+    "total_attacks": 307,
+    "top_groups": [
+      {
+        "group": "Irish Republican Army (IRA)",
+        "count": 52
+      },
+      {
+        "group": "Ulster Freedom Fighters (UFF)",
+        "count": 42
+      },
+      {
+        "group": "Ulster Volunteer Force (UVF)",
+        "count": 9
+      },
+      {
+        "group": "Irish National Liberation Army (INLA)",
+        "count": 8
+      },
+      {
+        "group": "Dissident Republicans",
+        "count": 6
+      }
+    ],
+    "deadliest_group": "Irish Republican Army (IRA)",
+    "deadliest_group_killed": 47,
+    "peak_years": [
+      {
+        "year": 2014,
+        "attacks": 33
+      },
+      {
+        "year": 2012,
+        "attacks": 29
+      },
+      {
+        "year": 2015,
+        "attacks": 28
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 17
+  },
+  "Israel": {
+    "total_attacks": 2347,
+    "top_groups": [
+      {
+        "group": "Palestinians",
+        "count": 472
+      },
+      {
+        "group": "Hamas (Islamic Resistance Movement)",
+        "count": 206
+      },
+      {
+        "group": "Government of Israel",
+        "count": 143
+      },
+      {
+        "group": "Palestinian Islamic Jihad (PIJ)",
+        "count": 135
+      },
+      {
+        "group": "Palestinian Extremists",
+        "count": 85
+      }
+    ],
+    "deadliest_group": "Hamas",
+    "deadliest_group_killed": 676,
+    "peak_years": [
+      {
+        "year": 2014,
+        "attacks": 293
+      },
+      {
+        "year": 2008,
+        "attacks": 134
+      },
+      {
+        "year": 1979,
+        "attacks": 130
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 61
+  },
+  "Italy": {
+    "total_attacks": 1565,
+    "top_groups": [
+      {
+        "group": "Red Brigades",
+        "count": 215
+      },
+      {
+        "group": "Prima Linea",
+        "count": 58
+      },
+      {
+        "group": "Armed Proletarian Nuclei (NAP)",
+        "count": 30
+      },
+      {
+        "group": "Armenian Secret Army for the Liberation of Armenia",
+        "count": 24
+      },
+      {
+        "group": "Anarchists",
+        "count": 22
+      }
+    ],
+    "deadliest_group": "Armed Revolutionary Nuclei (NAR)",
+    "deadliest_group_killed": 95,
+    "peak_years": [
+      {
+        "year": 1977,
+        "attacks": 308
+      },
+      {
+        "year": 1978,
+        "attacks": 277
+      },
+      {
+        "year": 1979,
+        "attacks": 209
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 8
+  },
+  "Ivory Coast": {
+    "total_attacks": 75,
+    "top_groups": [
+      {
+        "group": "Gbagbo Loyalists",
+        "count": 18
+      },
+      {
+        "group": "Federation of Students and Scholars of Cote d'Ivoire (FESCI)",
+        "count": 2
+      },
+      {
+        "group": "Al-Qaida in the Islamic Maghreb (AQIM)",
+        "count": 1
+      },
+      {
+        "group": "Government of Ivory Coast",
+        "count": 1
+      },
+      {
+        "group": "Ivorian Popular Front",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Al-Qaida in the Islamic Maghreb (AQIM)",
+    "deadliest_group_killed": 22,
+    "peak_years": [
+      {
+        "year": 2012,
+        "attacks": 16
+      },
+      {
+        "year": 2017,
+        "attacks": 13
+      },
+      {
+        "year": 1995,
+        "attacks": 7
+      }
+    ],
+    "latest_year": 2020,
+    "latest_year_attacks": 1
+  },
+  "Jamaica": {
+    "total_attacks": 36,
+    "top_groups": [
+      {
+        "group": "National Front for the Liberation of Cuba (FLNC)",
+        "count": 3
+      },
+      {
+        "group": "Jamaica Labor Party",
+        "count": 2
+      },
+      {
+        "group": "Right-wing extremists",
+        "count": 2
+      },
+      {
+        "group": "Gunmen",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Jamaica Labor Party",
+    "deadliest_group_killed": 10,
+    "peak_years": [
+      {
+        "year": 1997,
+        "attacks": 8
+      },
+      {
+        "year": 1980,
+        "attacks": 6
+      },
+      {
+        "year": 1992,
+        "attacks": 6
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 2
+  },
+  "Japan": {
+    "total_attacks": 402,
+    "top_groups": [
+      {
+        "group": "Chukakuha (Middle Core Faction)",
+        "count": 61
+      },
+      {
+        "group": "Revolutionary Workers' Council (Kakurokyo)",
+        "count": 25
+      },
+      {
+        "group": "East Asia Anti Japanese Armed Front",
+        "count": 12
+      },
+      {
+        "group": "Aum Shinri Kyo",
+        "count": 8
+      },
+      {
+        "group": "Senki (\"Battle Flag\")",
+        "count": 8
+      }
+    ],
+    "deadliest_group": "Aum Shinri Kyo",
+    "deadliest_group_killed": 21,
+    "peak_years": [
+      {
+        "year": 1990,
+        "attacks": 93
+      },
+      {
+        "year": 1992,
+        "attacks": 40
+      },
+      {
+        "year": 1978,
+        "attacks": 35
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 1
+  },
+  "Jordan": {
+    "total_attacks": 113,
+    "top_groups": [
+      {
+        "group": "Black September",
+        "count": 9
+      },
+      {
+        "group": "Popular Front for the Liberation of Palestine (PFLP)",
+        "count": 7
+      },
+      {
+        "group": "Islamic State of Iraq and the Levant (ISIL)",
+        "count": 6
+      },
+      {
+        "group": "Abu Nidal Organization (ANO)",
+        "count": 4
+      },
+      {
+        "group": "Al-Qaida in Iraq",
+        "count": 3
+      }
+    ],
+    "deadliest_group": "Al-Qaida in Iraq",
+    "deadliest_group_killed": 61,
+    "peak_years": [
+      {
+        "year": 1991,
+        "attacks": 11
+      },
+      {
+        "year": 1970,
+        "attacks": 9
+      },
+      {
+        "year": 2016,
+        "attacks": 9
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 8
+  },
+  "Kazakhstan": {
+    "total_attacks": 27,
+    "top_groups": [
+      {
+        "group": "Kazakhstan Liberation Army",
+        "count": 3
+      },
+      {
+        "group": "Chechen Rebels",
+        "count": 2
+      },
+      {
+        "group": "Soldiers of the Caliphate",
+        "count": 2
+      },
+      {
+        "group": "Gunmen",
+        "count": 1
+      },
+      {
+        "group": "Muslim extremists",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Kazakhstan Liberation Army",
+    "deadliest_group_killed": 10,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 5
+      },
+      {
+        "year": 2011,
+        "attacks": 5
+      },
+      {
+        "year": 2012,
+        "attacks": 4
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 3
+  },
+  "Kenya": {
+    "total_attacks": 763,
+    "top_groups": [
+      {
+        "group": "Al-Shabaab",
+        "count": 447
+      },
+      {
+        "group": "Government of Kenya",
+        "count": 41
+      },
+      {
+        "group": "Mombasa Republican Council (MRC)",
+        "count": 9
+      },
+      {
+        "group": "Sabaot Land Defense Force (SLDF)",
+        "count": 6
+      },
+      {
+        "group": "Mungiki Sect",
+        "count": 5
+      }
+    ],
+    "deadliest_group": "Al-Shabaab",
+    "deadliest_group_killed": 1075,
+    "peak_years": [
+      {
+        "year": 2014,
+        "attacks": 115
+      },
+      {
+        "year": 2017,
+        "attacks": 97
+      },
+      {
+        "year": 2012,
+        "attacks": 80
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 4
+  },
+  "Kosovo": {
+    "total_attacks": 196,
+    "top_groups": [
+      {
+        "group": "Albanian extremists",
+        "count": 28
+      },
+      {
+        "group": "Kosovo Liberation Army (KLA)",
+        "count": 13
+      },
+      {
+        "group": "Gunmen",
+        "count": 4
+      },
+      {
+        "group": "Separatists",
+        "count": 2
+      },
+      {
+        "group": "Rugovasit Group",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Albanian extremists",
+    "deadliest_group_killed": 23,
+    "peak_years": [
+      {
+        "year": 2000,
+        "attacks": 60
+      },
+      {
+        "year": 1999,
+        "attacks": 39
+      },
+      {
+        "year": 2001,
+        "attacks": 17
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 8
+  },
+  "Kuwait": {
+    "total_attacks": 76,
+    "top_groups": [
+      {
+        "group": "Hezbollah",
+        "count": 10
+      },
+      {
+        "group": "Arab Revolution/Liberation Vanguard Organization",
+        "count": 2
+      },
+      {
+        "group": "Palestinians",
+        "count": 2
+      },
+      {
+        "group": "Iranian extremists",
+        "count": 2
+      },
+      {
+        "group": "Muslim extremists",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Najd Province of the Islamic State",
+    "deadliest_group_killed": 28,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 15
+      },
+      {
+        "year": 1987,
+        "attacks": 12
+      },
+      {
+        "year": 1983,
+        "attacks": 7
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 2
+  },
+  "Kyrgyzstan": {
+    "total_attacks": 40,
+    "top_groups": [
+      {
+        "group": "Government of Tajikistan",
+        "count": 5
+      },
+      {
+        "group": "Muslim extremists",
+        "count": 3
+      },
+      {
+        "group": "Islamic Movement of Uzbekistan (IMU)",
+        "count": 2
+      },
+      {
+        "group": "Jihadi-inspired extremists",
+        "count": 1
+      },
+      {
+        "group": "Turkestan Islamic Party",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Government of Tajikistan",
+    "deadliest_group_killed": 5,
+    "peak_years": [
+      {
+        "year": 1996,
+        "attacks": 5
+      },
+      {
+        "year": 2022,
+        "attacks": 5
+      },
+      {
+        "year": 2000,
+        "attacks": 4
+      }
+    ],
+    "latest_year": 2022,
+    "latest_year_attacks": 5
+  },
+  "Laos": {
+    "total_attacks": 27,
+    "top_groups": [
+      {
+        "group": "Bandits",
+        "count": 1
+      },
+      {
+        "group": "Free Democratic People's Government of Laos",
+        "count": 1
+      },
+      {
+        "group": "Gunmen",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Gunmen",
+    "deadliest_group_killed": 5,
+    "peak_years": [
+      {
+        "year": 2000,
+        "attacks": 8
+      },
+      {
+        "year": 1992,
+        "attacks": 4
+      },
+      {
+        "year": 2016,
+        "attacks": 4
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 1
+  },
+  "Latvia": {
+    "total_attacks": 17,
+    "top_groups": [
+      {
+        "group": "Fighters of Democratic Latvia",
+        "count": 1
+      },
+      {
+        "group": "Latvian Republic Volunteer Troops",
+        "count": 1
+      },
+      {
+        "group": "National Bolshevik Party (Partiya Natsionalnikh Bolshevikov - PNB)",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "National Bolshevik Party (Partiya Natsionalnikh Bolshevikov - PNB)",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1998,
+        "attacks": 4
+      },
+      {
+        "year": 2000,
+        "attacks": 3
+      },
+      {
+        "year": 1992,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 1
+  },
+  "Lebanon": {
+    "total_attacks": 2478,
+    "top_groups": [
+      {
+        "group": "Hezbollah",
+        "count": 303
+      },
+      {
+        "group": "Palestinians",
+        "count": 133
+      },
+      {
+        "group": "Palestine Liberation Organization (PLO)",
+        "count": 92
+      },
+      {
+        "group": "Islamic State of Iraq and the Levant (ISIL)",
+        "count": 50
+      },
+      {
+        "group": "Al-Nusrah Front",
+        "count": 29
+      }
+    ],
+    "deadliest_group": "Hezbollah",
+    "deadliest_group_killed": 710,
+    "peak_years": [
+      {
+        "year": 1983,
+        "attacks": 234
+      },
+      {
+        "year": 2014,
+        "attacks": 204
+      },
+      {
+        "year": 1984,
+        "attacks": 166
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 23
+  },
+  "Lesotho": {
+    "total_attacks": 29,
+    "top_groups": [
+      {
+        "group": "Lesotho Liberation Army (LLA)",
+        "count": 12
+      },
+      {
+        "group": "Opposition Militants",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Lesotho Liberation Army (LLA)",
+    "deadliest_group_killed": 19,
+    "peak_years": [
+      {
+        "year": 1983,
+        "attacks": 12
+      },
+      {
+        "year": 1981,
+        "attacks": 5
+      },
+      {
+        "year": 1994,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2015,
+    "latest_year_attacks": 1
+  },
+  "Liberia": {
+    "total_attacks": 38,
+    "top_groups": [
+      {
+        "group": "Liberians United for Reconciliation and Democracy (LURD)",
+        "count": 6
+      },
+      {
+        "group": "National Patriotic Front of Liberia (NPFL)",
+        "count": 6
+      },
+      {
+        "group": "Government of Liberia",
+        "count": 4
+      },
+      {
+        "group": "Liberian Rebel Group",
+        "count": 1
+      },
+      {
+        "group": "Civil War Veterans",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "National Patriotic Front of Liberia (NPFL)",
+    "deadliest_group_killed": 66,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 10
+      },
+      {
+        "year": 1990,
+        "attacks": 4
+      },
+      {
+        "year": 1994,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2024,
+    "latest_year_attacks": 1
+  },
+  "Libya": {
+    "total_attacks": 2257,
+    "top_groups": [
+      {
+        "group": "Tripoli Province of the Islamic State",
+        "count": 349
+      },
+      {
+        "group": "Barqa Province of the Islamic State",
+        "count": 154
+      },
+      {
+        "group": "Muslim extremists",
+        "count": 108
+      },
+      {
+        "group": "Ansar al-Sharia (Libya)",
+        "count": 65
+      },
+      {
+        "group": "Haftar Militia",
+        "count": 25
+      }
+    ],
+    "deadliest_group": "Tripoli Province of the Islamic State",
+    "deadliest_group_killed": 518,
+    "peak_years": [
+      {
+        "year": 2014,
+        "attacks": 728
+      },
+      {
+        "year": 2015,
+        "attacks": 543
+      },
+      {
+        "year": 2016,
+        "attacks": 422
+      }
+    ],
+    "latest_year": 2020,
+    "latest_year_attacks": 2
+  },
+  "Lithuania": {
+    "total_attacks": 8,
+    "top_groups": [
+      {
+        "group": "Lithuanian Land Guard",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Lithuanian Land Guard",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1996,
+        "attacks": 3
+      },
+      {
+        "year": 1995,
+        "attacks": 2
+      },
+      {
+        "year": 1991,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1997,
+    "latest_year_attacks": 1
+  },
+  "Luxembourg": {
+    "total_attacks": 16,
+    "top_groups": [
+      {
+        "group": "Fighting Ecologist Movement",
+        "count": 1
+      },
+      {
+        "group": "New Armenian Resistance",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "New Armenian Resistance",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1985,
+        "attacks": 10
+      },
+      {
+        "year": 1994,
+        "attacks": 3
+      },
+      {
+        "year": 1983,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 1994,
+    "latest_year_attacks": 3
+  },
+  "Macau": {
+    "total_attacks": 33,
+    "top_groups": [
+      {
+        "group": "14 K Triad",
+        "count": 4
+      }
+    ],
+    "deadliest_group": "14 K Triad",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1997,
+        "attacks": 16
+      },
+      {
+        "year": 1996,
+        "attacks": 10
+      },
+      {
+        "year": 1998,
+        "attacks": 6
+      }
+    ],
+    "latest_year": 1998,
+    "latest_year_attacks": 6
+  },
+  "Macedonia": {
+    "total_attacks": 118,
+    "top_groups": [
+      {
+        "group": "National Liberation Army (NLA) (Macedonia)",
+        "count": 35
+      },
+      {
+        "group": "Albanian extremists",
+        "count": 9
+      },
+      {
+        "group": "Kosovo Liberation Army (KLA)",
+        "count": 5
+      },
+      {
+        "group": "Albanian National Army (ANA)",
+        "count": 4
+      },
+      {
+        "group": "Army of the Republic of Ilirida",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "National Liberation Army (NLA) (Macedonia)",
+    "deadliest_group_killed": 17,
+    "peak_years": [
+      {
+        "year": 2001,
+        "attacks": 67
+      },
+      {
+        "year": 2008,
+        "attacks": 9
+      },
+      {
+        "year": 2002,
+        "attacks": 8
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 1
+  },
+  "Madagascar": {
+    "total_attacks": 31,
+    "top_groups": [
+      {
+        "group": "Government of Madagascar",
+        "count": 4
+      },
+      {
+        "group": "Anti-Government Demonstrators",
+        "count": 1
+      },
+      {
+        "group": "Defenders of the Nation's Sovereignty",
+        "count": 1
+      },
+      {
+        "group": "Didier Ratsiraka's Militia",
+        "count": 1
+      },
+      {
+        "group": "Militant Movement for Madagascan Socialism (MMSM)",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Government of Madagascar",
+    "deadliest_group_killed": 26,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 7
+      },
+      {
+        "year": 2002,
+        "attacks": 5
+      },
+      {
+        "year": 1995,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2020,
+    "latest_year_attacks": 1
+  },
+  "Malawi": {
+    "total_attacks": 5,
+    "top_groups": [
+      {
+        "group": "Anti-government rioters",
+        "count": 1
+      },
+      {
+        "group": "Young Pioneers",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Anti-government rioters",
+    "deadliest_group_killed": 30,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 3
+      },
+      {
+        "year": 2002,
+        "attacks": 1
+      },
+      {
+        "year": 2017,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 1
+  },
+  "Malaysia": {
+    "total_attacks": 99,
+    "top_groups": [
+      {
+        "group": "Abu Sayyaf Group (ASG)",
+        "count": 19
+      },
+      {
+        "group": "Al-Ma'unah",
+        "count": 2
+      },
+      {
+        "group": "Communist Party of Malaysia- Marxist-Leninist",
+        "count": 2
+      },
+      {
+        "group": "Jihadi-inspired extremists",
+        "count": 2
+      },
+      {
+        "group": "Communists",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Abu Sayyaf Group (ASG)",
+    "deadliest_group_killed": 9,
+    "peak_years": [
+      {
+        "year": 2016,
+        "attacks": 19
+      },
+      {
+        "year": 1986,
+        "attacks": 15
+      },
+      {
+        "year": 2013,
+        "attacks": 13
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 4
+  },
+  "Maldives": {
+    "total_attacks": 22,
+    "top_groups": [
+      {
+        "group": "Muslim extremists",
+        "count": 4
+      },
+      {
+        "group": "People's Liberation Organization of Tamil Eelam",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "People's Liberation Organization of Tamil Eelam",
+    "deadliest_group_killed": 19,
+    "peak_years": [
+      {
+        "year": 2014,
+        "attacks": 9
+      },
+      {
+        "year": 2013,
+        "attacks": 3
+      },
+      {
+        "year": 2015,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 2
+  },
+  "Mali": {
+    "total_attacks": 1345,
+    "top_groups": [
+      {
+        "group": "Government of Mali, Government of Russia (Soviet Union)",
+        "count": 188
+      },
+      {
+        "group": "JNIM",
+        "count": 186
+      },
+      {
+        "group": "Government of Mali",
+        "count": 145
+      },
+      {
+        "group": "IS",
+        "count": 136
+      },
+      {
+        "group": "Ansar al-Dine (Mali)",
+        "count": 54
+      }
+    ],
+    "deadliest_group": "IS",
+    "deadliest_group_killed": 1393,
+    "peak_years": [
+      {
+        "year": 2024,
+        "attacks": 184
+      },
+      {
+        "year": 2017,
+        "attacks": 141
+      },
+      {
+        "year": 2025,
+        "attacks": 139
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 139
+  },
+  "Malta": {
+    "total_attacks": 24,
+    "top_groups": [
+      {
+        "group": "Government of Libya",
+        "count": 1
+      },
+      {
+        "group": "Turkish radicals",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Turkish radicals",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1984,
+        "attacks": 7
+      },
+      {
+        "year": 1987,
+        "attacks": 4
+      },
+      {
+        "year": 2017,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 1
+  },
+  "Martinique": {
+    "total_attacks": 12,
+    "top_groups": [
+      {
+        "group": "Caribbean Revolutionary Alliance (ARC)",
+        "count": 3
+      },
+      {
+        "group": "22 May 1948",
+        "count": 1
+      },
+      {
+        "group": "Guadeloupe Liberation Army",
+        "count": 1
+      },
+      {
+        "group": "Yich Telga",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Guadeloupe Liberation Army",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1983,
+        "attacks": 5
+      },
+      {
+        "year": 1984,
+        "attacks": 2
+      },
+      {
+        "year": 1981,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1992,
+    "latest_year_attacks": 1
+  },
+  "Mauritania": {
+    "total_attacks": 20,
+    "top_groups": [
+      {
+        "group": "Al-Qaida in the Islamic Maghreb (AQIM)",
+        "count": 9
+      },
+      {
+        "group": "Polisario Front",
+        "count": 4
+      },
+      {
+        "group": "Government of Mauritania",
+        "count": 2
+      },
+      {
+        "group": "Salafi Extremists",
+        "count": 1
+      },
+      {
+        "group": "Salafist Group for Preaching and Fighting (GSPC)",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Salafist Group for Preaching and Fighting (GSPC)",
+    "deadliest_group_killed": 23,
+    "peak_years": [
+      {
+        "year": 2009,
+        "attacks": 5
+      },
+      {
+        "year": 1977,
+        "attacks": 4
+      },
+      {
+        "year": 2011,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2020,
+    "latest_year_attacks": 1
+  },
+  "Mauritius": {
+    "total_attacks": 2,
+    "top_groups": [],
+    "deadliest_group": "Unknown",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1988,
+        "attacks": 1
+      },
+      {
+        "year": 1989,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1989,
+    "latest_year_attacks": 1
+  },
+  "Mexico": {
+    "total_attacks": 769,
+    "top_groups": [
+      {
+        "group": "Sinaloa Cartel",
+        "count": 113
+      },
+      {
+        "group": "Jalisco Cartel New Generation",
+        "count": 78
+      },
+      {
+        "group": "23rd of September Communist League",
+        "count": 44
+      },
+      {
+        "group": "Government of Mexico",
+        "count": 31
+      },
+      {
+        "group": "Zapatista National Liberation Army",
+        "count": 23
+      }
+    ],
+    "deadliest_group": "Jalisco Cartel New Generation",
+    "deadliest_group_killed": 147,
+    "peak_years": [
+      {
+        "year": 1997,
+        "attacks": 95
+      },
+      {
+        "year": 1996,
+        "attacks": 75
+      },
+      {
+        "year": 2024,
+        "attacks": 67
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 50
+  },
+  "Moldova": {
+    "total_attacks": 21,
+    "top_groups": [
+      {
+        "group": "Dnestr Republic Separatists",
+        "count": 2
+      },
+      {
+        "group": "Dnester region guerrilas",
+        "count": 1
+      },
+      {
+        "group": "Dnestr Rebels",
+        "count": 1
+      },
+      {
+        "group": "Ethnic Russian Separatists",
+        "count": 1
+      },
+      {
+        "group": "Russian Militia",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Dnester region guerrilas",
+    "deadliest_group_killed": 5,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 11
+      },
+      {
+        "year": 1996,
+        "attacks": 2
+      },
+      {
+        "year": 1991,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 1
+  },
+  "Montenegro": {
+    "total_attacks": 5,
+    "top_groups": [],
+    "deadliest_group": "Unknown",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 2013,
+        "attacks": 2
+      },
+      {
+        "year": 2001,
+        "attacks": 1
+      },
+      {
+        "year": 2007,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2015,
+    "latest_year_attacks": 1
+  },
+  "Morocco": {
+    "total_attacks": 36,
+    "top_groups": [
+      {
+        "group": "Polisario Front",
+        "count": 9
+      },
+      {
+        "group": "Al-Adl Wal Ihsane",
+        "count": 5
+      },
+      {
+        "group": "Salafia Jihadia",
+        "count": 5
+      },
+      {
+        "group": "Al-Qaida in the Islamic Maghreb (AQIM)",
+        "count": 2
+      },
+      {
+        "group": "Patriotic Moroccan Front",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Polisario Front",
+    "deadliest_group_killed": 212,
+    "peak_years": [
+      {
+        "year": 2007,
+        "attacks": 6
+      },
+      {
+        "year": 2003,
+        "attacks": 5
+      },
+      {
+        "year": 1987,
+        "attacks": 4
+      }
+    ],
+    "latest_year": 2015,
+    "latest_year_attacks": 1
+  },
+  "Mozambique": {
+    "total_attacks": 1158,
+    "top_groups": [
+      {
+        "group": "IS",
+        "count": 540
+      },
+      {
+        "group": "Mozambique National Resistance Movement (MNR)",
+        "count": 291
+      },
+      {
+        "group": "Government of Mozambique",
+        "count": 182
+      },
+      {
+        "group": "ASWJ",
+        "count": 71
+      },
+      {
+        "group": "Ansar al-Sunna (Mozambique)",
+        "count": 6
+      }
+    ],
+    "deadliest_group": "Mozambique National Resistance Movement (MNR)",
+    "deadliest_group_killed": 2471,
+    "peak_years": [
+      {
+        "year": 2022,
+        "attacks": 153
+      },
+      {
+        "year": 2024,
+        "attacks": 137
+      },
+      {
+        "year": 2020,
+        "attacks": 126
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 126
+  },
+  "Myanmar": {
+    "total_attacks": 1711,
+    "top_groups": [
+      {
+        "group": "Government of Myanmar (Burma)",
+        "count": 990
+      },
+      {
+        "group": "NUG",
+        "count": 164
+      },
+      {
+        "group": "Karen National Union",
+        "count": 83
+      },
+      {
+        "group": "Arakan Rohingya Salvation Army (ARSA)",
+        "count": 46
+      },
+      {
+        "group": "Kachin Independence Army (KIA)",
+        "count": 42
+      }
+    ],
+    "deadliest_group": "Government of Myanmar (Burma)",
+    "deadliest_group_killed": 2473,
+    "peak_years": [
+      {
+        "year": 2021,
+        "attacks": 318
+      },
+      {
+        "year": 2022,
+        "attacks": 286
+      },
+      {
+        "year": 2023,
+        "attacks": 282
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 91
+  },
+  "Namibia": {
+    "total_attacks": 151,
+    "top_groups": [
+      {
+        "group": "South-West Africa People's Organization (SWAPO)",
+        "count": 60
+      },
+      {
+        "group": "National Union for the Total Independence of Angola (UNITA)",
+        "count": 23
+      },
+      {
+        "group": "Zimbabwe African Nationalist Union (ZANU)",
+        "count": 3
+      },
+      {
+        "group": "White Wolves",
+        "count": 2
+      },
+      {
+        "group": "Angolan Defense Force",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "South-West Africa People's Organization (SWAPO)",
+    "deadliest_group_killed": 87,
+    "peak_years": [
+      {
+        "year": 1979,
+        "attacks": 31
+      },
+      {
+        "year": 1984,
+        "attacks": 24
+      },
+      {
+        "year": 2000,
+        "attacks": 21
+      }
+    ],
+    "latest_year": 2001,
+    "latest_year_attacks": 6
+  },
+  "Nepal": {
+    "total_attacks": 1217,
+    "top_groups": [
+      {
+        "group": "Maoists",
+        "count": 229
+      },
+      {
+        "group": "Communist Party of Nepal - Maoist (CPN-Maoist-Chand)",
+        "count": 91
+      },
+      {
+        "group": "Janatantrik Terai Mukti Morcha- Jwala Singh (JTMM-J)",
+        "count": 78
+      },
+      {
+        "group": "Janatantrik Terai Mukti Morcha- Goit (JTMM-G)",
+        "count": 34
+      },
+      {
+        "group": "Communist Party of Nepal-Maoist (Baidya)",
+        "count": 34
+      }
+    ],
+    "deadliest_group": "Maoists",
+    "deadliest_group_killed": 779,
+    "peak_years": [
+      {
+        "year": 2017,
+        "attacks": 247
+      },
+      {
+        "year": 2008,
+        "attacks": 120
+      },
+      {
+        "year": 2013,
+        "attacks": 104
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 1
+  },
+  "Netherlands": {
+    "total_attacks": 130,
+    "top_groups": [
+      {
+        "group": "Kurdistan Workers' Party (PKK)",
+        "count": 8
+      },
+      {
+        "group": "South Moluccans",
+        "count": 8
+      },
+      {
+        "group": "Dev Sol",
+        "count": 5
+      },
+      {
+        "group": "Irish Republican Army (IRA)",
+        "count": 4
+      },
+      {
+        "group": "Revolutionary Anti-Racist Action",
+        "count": 3
+      }
+    ],
+    "deadliest_group": "South Moluccans",
+    "deadliest_group_killed": 14,
+    "peak_years": [
+      {
+        "year": 1986,
+        "attacks": 14
+      },
+      {
+        "year": 1992,
+        "attacks": 12
+      },
+      {
+        "year": 1991,
+        "attacks": 8
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 1
+  },
+  "New Caledonia": {
+    "total_attacks": 31,
+    "top_groups": [
+      {
+        "group": "Kanak Socialist National Liberation Front",
+        "count": 5
+      },
+      {
+        "group": "Kanak Separatists",
+        "count": 4
+      },
+      {
+        "group": "Kanakas",
+        "count": 2
+      },
+      {
+        "group": "National Committee Against Independence (CNCI)",
+        "count": 2
+      },
+      {
+        "group": "Independence Advocates",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Kanak Separatists",
+    "deadliest_group_killed": 18,
+    "peak_years": [
+      {
+        "year": 1984,
+        "attacks": 10
+      },
+      {
+        "year": 1988,
+        "attacks": 9
+      },
+      {
+        "year": 1985,
+        "attacks": 7
+      }
+    ],
+    "latest_year": 1992,
+    "latest_year_attacks": 2
+  },
+  "New Hebrides": {
+    "total_attacks": 1,
+    "top_groups": [
+      {
+        "group": "Secessionists",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Secessionists",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1980,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1980,
+    "latest_year_attacks": 1
+  },
+  "New Zealand": {
+    "total_attacks": 20,
+    "top_groups": [
+      {
+        "group": "September 11",
+        "count": 4
+      },
+      {
+        "group": "Animal Liberation Front (ALF)",
+        "count": 1
+      },
+      {
+        "group": "Maori",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "September 11",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 2008,
+        "attacks": 5
+      },
+      {
+        "year": 2003,
+        "attacks": 3
+      },
+      {
+        "year": 1981,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 1
+  },
+  "Nicaragua": {
+    "total_attacks": 1970,
+    "top_groups": [
+      {
+        "group": "Nicaraguan Democratic Force (FDN)",
+        "count": 886
+      },
+      {
+        "group": "Nicaraguan Resistance",
+        "count": 228
+      },
+      {
+        "group": "Sandinista National Liberation Front (FSLN)",
+        "count": 205
+      },
+      {
+        "group": "Democratic Revolutionary Alliance (ARDE)",
+        "count": 139
+      },
+      {
+        "group": "Contras",
+        "count": 90
+      }
+    ],
+    "deadliest_group": "Nicaraguan Democratic Force (FDN)",
+    "deadliest_group_killed": 6630,
+    "peak_years": [
+      {
+        "year": 1984,
+        "attacks": 302
+      },
+      {
+        "year": 1983,
+        "attacks": 299
+      },
+      {
+        "year": 1985,
+        "attacks": 258
+      }
+    ],
+    "latest_year": 2014,
+    "latest_year_attacks": 2
+  },
+  "Niger": {
+    "total_attacks": 399,
+    "top_groups": [
+      {
+        "group": "IS",
+        "count": 195
+      },
+      {
+        "group": "Boko Haram",
+        "count": 63
+      },
+      {
+        "group": "Government of Niger",
+        "count": 17
+      },
+      {
+        "group": "JAS",
+        "count": 14
+      },
+      {
+        "group": "JNIM",
+        "count": 13
+      }
+    ],
+    "deadliest_group": "IS",
+    "deadliest_group_killed": 1580,
+    "peak_years": [
+      {
+        "year": 2025,
+        "attacks": 49
+      },
+      {
+        "year": 2015,
+        "attacks": 41
+      },
+      {
+        "year": 2019,
+        "attacks": 39
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 49
+  },
+  "Nigeria": {
+    "total_attacks": 4583,
+    "top_groups": [
+      {
+        "group": "Boko Haram",
+        "count": 2087
+      },
+      {
+        "group": "Fulani extremists",
+        "count": 498
+      },
+      {
+        "group": "IS",
+        "count": 243
+      },
+      {
+        "group": "JAS",
+        "count": 171
+      },
+      {
+        "group": "Government of Nigeria",
+        "count": 155
+      }
+    ],
+    "deadliest_group": "Boko Haram",
+    "deadliest_group_killed": 16917,
+    "peak_years": [
+      {
+        "year": 2014,
+        "attacks": 714
+      },
+      {
+        "year": 2015,
+        "attacks": 638
+      },
+      {
+        "year": 2012,
+        "attacks": 616
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 132
+  },
+  "North Korea": {
+    "total_attacks": 1,
+    "top_groups": [
+      {
+        "group": "Kim Pyongnil Supporters",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Kim Pyongnil Supporters",
+    "deadliest_group_killed": 3,
+    "peak_years": [
+      {
+        "year": 1994,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1994,
+    "latest_year_attacks": 1
+  },
+  "North Yemen": {
+    "total_attacks": 6,
+    "top_groups": [],
+    "deadliest_group": "Unknown",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1978,
+        "attacks": 2
+      },
+      {
+        "year": 1974,
+        "attacks": 1
+      },
+      {
+        "year": 1977,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1988,
+    "latest_year_attacks": 1
+  },
+  "Norway": {
+    "total_attacks": 19,
+    "top_groups": [
+      {
+        "group": "Right-wing extremists",
+        "count": 2
+      },
+      {
+        "group": "Neo-Nazi extremists",
+        "count": 2
+      },
+      {
+        "group": "Kurdish Militants",
+        "count": 2
+      },
+      {
+        "group": "Anti-Soviet protest group",
+        "count": 1
+      },
+      {
+        "group": "Anti-Semitic extremists",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Right-wing extremists",
+    "deadliest_group_killed": 77,
+    "peak_years": [
+      {
+        "year": 2011,
+        "attacks": 3
+      },
+      {
+        "year": 1987,
+        "attacks": 2
+      },
+      {
+        "year": 1991,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 1
+  },
+  "Pakistan": {
+    "total_attacks": 14800,
+    "top_groups": [
+      {
+        "group": "Tehrik-i-Taliban Pakistan (TTP)",
+        "count": 1335
+      },
+      {
+        "group": "Baloch Republican Army (BRA)",
+        "count": 312
+      },
+      {
+        "group": "Baloch Liberation Front (BLF)",
+        "count": 185
+      },
+      {
+        "group": "Baloch Liberation Army (BLA)",
+        "count": 181
+      },
+      {
+        "group": "TTP",
+        "count": 179
+      }
+    ],
+    "deadliest_group": "Tehrik-i-Taliban Pakistan (TTP)",
+    "deadliest_group_killed": 6014,
+    "peak_years": [
+      {
+        "year": 2013,
+        "attacks": 2215
+      },
+      {
+        "year": 2014,
+        "attacks": 2151
+      },
+      {
+        "year": 2012,
+        "attacks": 1654
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 179
+  },
+  "Panama": {
+    "total_attacks": 127,
+    "top_groups": [
+      {
+        "group": "20 December Movement (M-20)",
+        "count": 15
+      },
+      {
+        "group": "Kuna Indians",
+        "count": 7
+      },
+      {
+        "group": "Revolutionary Front for National Liberation",
+        "count": 6
+      },
+      {
+        "group": "Panama Defense Force",
+        "count": 3
+      },
+      {
+        "group": "Revolutionary Armed Forces of Colombia (FARC)",
+        "count": 3
+      }
+    ],
+    "deadliest_group": "Ansar Allah",
+    "deadliest_group_killed": 21,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 37
+      },
+      {
+        "year": 1991,
+        "attacks": 16
+      },
+      {
+        "year": 1990,
+        "attacks": 15
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 1
+  },
+  "Papua New Guinea": {
+    "total_attacks": 98,
+    "top_groups": [
+      {
+        "group": "Bougainville Revolutionary Army (BRA)",
+        "count": 28
+      },
+      {
+        "group": "Government of Papua New Guinea",
+        "count": 6
+      },
+      {
+        "group": "I don't care",
+        "count": 3
+      },
+      {
+        "group": "Free Papua Movement (OPM-Organisasi Papua Merdeka)",
+        "count": 2
+      },
+      {
+        "group": "Lufa Tribesmen",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Bougainville Revolutionary Army (BRA)",
+    "deadliest_group_killed": 45,
+    "peak_years": [
+      {
+        "year": 1989,
+        "attacks": 24
+      },
+      {
+        "year": 1990,
+        "attacks": 18
+      },
+      {
+        "year": 1992,
+        "attacks": 10
+      }
+    ],
+    "latest_year": 2024,
+    "latest_year_attacks": 6
+  },
+  "Paraguay": {
+    "total_attacks": 117,
+    "top_groups": [
+      {
+        "group": "Paraguayan People's Army (EPP)",
+        "count": 70
+      },
+      {
+        "group": "Strikers",
+        "count": 11
+      },
+      {
+        "group": "PCC",
+        "count": 2
+      },
+      {
+        "group": "Croatian Nationalists",
+        "count": 1
+      },
+      {
+        "group": "Comando Vermelho",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Paraguayan People's Army (EPP)",
+    "deadliest_group_killed": 45,
+    "peak_years": [
+      {
+        "year": 2015,
+        "attacks": 19
+      },
+      {
+        "year": 2014,
+        "attacks": 15
+      },
+      {
+        "year": 2016,
+        "attacks": 15
+      }
+    ],
+    "latest_year": 2021,
+    "latest_year_attacks": 1
+  },
+  "People's Republic of the Congo": {
+    "total_attacks": 4,
+    "top_groups": [
+      {
+        "group": "Front for the Liberation of the Enclave of Cabinda (FLEC)",
+        "count": 2
+      },
+      {
+        "group": "Black September",
+        "count": 1
+      },
+      {
+        "group": "Congolese Armed Patriotic Group",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Congolese Armed Patriotic Group",
+    "deadliest_group_killed": 15,
+    "peak_years": [
+      {
+        "year": 1977,
+        "attacks": 2
+      },
+      {
+        "year": 1972,
+        "attacks": 1
+      },
+      {
+        "year": 1982,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1982,
+    "latest_year_attacks": 1
+  },
+  "Peru": {
+    "total_attacks": 6100,
+    "top_groups": [
+      {
+        "group": "Shining Path (SL)",
+        "count": 4541
+      },
+      {
+        "group": "Tupac Amaru Revolutionary Movement (MRTA)",
+        "count": 552
+      },
+      {
+        "group": "Rodrigo Franco Command",
+        "count": 15
+      },
+      {
+        "group": "Narco-Terrorists",
+        "count": 14
+      },
+      {
+        "group": "Terrorists",
+        "count": 11
+      }
+    ],
+    "deadliest_group": "Shining Path (SL)",
+    "deadliest_group_killed": 11595,
+    "peak_years": [
+      {
+        "year": 1991,
+        "attacks": 658
+      },
+      {
+        "year": 1989,
+        "attacks": 630
+      },
+      {
+        "year": 1987,
+        "attacks": 627
+      }
+    ],
+    "latest_year": 2022,
+    "latest_year_attacks": 1
+  },
+  "Philippines": {
+    "total_attacks": 7026,
+    "top_groups": [
+      {
+        "group": "New People's Army (NPA)",
+        "count": 2770
+      },
+      {
+        "group": "Abu Sayyaf Group (ASG)",
+        "count": 508
+      },
+      {
+        "group": "Bangsamoro Islamic Freedom Movement (BIFM)",
+        "count": 391
+      },
+      {
+        "group": "Moro Islamic Liberation Front (MILF)",
+        "count": 366
+      },
+      {
+        "group": "Moro National Liberation Front (MNLF)",
+        "count": 197
+      }
+    ],
+    "deadliest_group": "New People's Army (NPA)",
+    "deadliest_group_killed": 4385,
+    "peak_years": [
+      {
+        "year": 2015,
+        "attacks": 721
+      },
+      {
+        "year": 2017,
+        "attacks": 692
+      },
+      {
+        "year": 2013,
+        "attacks": 651
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 19
+  },
+  "Poland": {
+    "total_attacks": 39,
+    "top_groups": [
+      {
+        "group": "December 13 Independent Group",
+        "count": 3
+      },
+      {
+        "group": "Anarchists",
+        "count": 1
+      },
+      {
+        "group": "Anti-Government extremists",
+        "count": 1
+      },
+      {
+        "group": "Anti-Communist extremists",
+        "count": 1
+      },
+      {
+        "group": "Anti-Immigrant extremists",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Polish Skinheads",
+    "deadliest_group_killed": 1,
+    "peak_years": [
+      {
+        "year": 1990,
+        "attacks": 7
+      },
+      {
+        "year": 1996,
+        "attacks": 6
+      },
+      {
+        "year": 1992,
+        "attacks": 5
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 1
+  },
+  "Portugal": {
+    "total_attacks": 140,
+    "top_groups": [
+      {
+        "group": "Popular Forces of April 25",
+        "count": 47
+      },
+      {
+        "group": "Front For the Liberation of the Azores",
+        "count": 8
+      },
+      {
+        "group": "Justice Commandos for the Armenian Genocide",
+        "count": 3
+      },
+      {
+        "group": "Revolutionary Internationalist Solidarity",
+        "count": 3
+      },
+      {
+        "group": "Anarchists",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Justice Commandos for the Armenian Genocide",
+    "deadliest_group_killed": 10,
+    "peak_years": [
+      {
+        "year": 1985,
+        "attacks": 20
+      },
+      {
+        "year": 1976,
+        "attacks": 15
+      },
+      {
+        "year": 1977,
+        "attacks": 15
+      }
+    ],
+    "latest_year": 2011,
+    "latest_year_attacks": 2
+  },
+  "Qatar": {
+    "total_attacks": 7,
+    "top_groups": [
+      {
+        "group": "Iraqi extremists",
+        "count": 1
+      },
+      {
+        "group": "Organization of Soldiers of the Levant",
+        "count": 1
+      },
+      {
+        "group": "Palestinians",
+        "count": 1
+      },
+      {
+        "group": "The Organization for the Return of Legality",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Organization of Soldiers of the Levant",
+    "deadliest_group_killed": 2,
+    "peak_years": [
+      {
+        "year": 1982,
+        "attacks": 1
+      },
+      {
+        "year": 1989,
+        "attacks": 1
+      },
+      {
+        "year": 1996,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2015,
+    "latest_year_attacks": 1
+  },
+  "Republic of the Congo": {
+    "total_attacks": 37,
+    "top_groups": [
+      {
+        "group": "Ninjas",
+        "count": 6
+      },
+      {
+        "group": "Government of Angola",
+        "count": 1
+      },
+      {
+        "group": "Malitia-Pro Govt",
+        "count": 1
+      },
+      {
+        "group": "Mayi Mayi",
+        "count": 1
+      },
+      {
+        "group": "Presidential Movement (MP) Militiamen",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Ninjas",
+    "deadliest_group_killed": 91,
+    "peak_years": [
+      {
+        "year": 2016,
+        "attacks": 15
+      },
+      {
+        "year": 1994,
+        "attacks": 8
+      },
+      {
+        "year": 1999,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2019,
+    "latest_year_attacks": 1
+  },
+  "Rhodesia": {
+    "total_attacks": 83,
+    "top_groups": [
+      {
+        "group": "Zimbabwe African Nationalist Union (ZANU)",
+        "count": 11
+      },
+      {
+        "group": "Guerrillas",
+        "count": 9
+      },
+      {
+        "group": "Zimbabwe African People's Union",
+        "count": 9
+      },
+      {
+        "group": "Zimbabwe Patriotic Front",
+        "count": 8
+      },
+      {
+        "group": "Black Nationalists",
+        "count": 6
+      }
+    ],
+    "deadliest_group": "Zimbabwe African People's Union",
+    "deadliest_group_killed": 139,
+    "peak_years": [
+      {
+        "year": 1979,
+        "attacks": 51
+      },
+      {
+        "year": 1978,
+        "attacks": 19
+      },
+      {
+        "year": 1980,
+        "attacks": 13
+      }
+    ],
+    "latest_year": 1980,
+    "latest_year_attacks": 13
+  },
+  "Romania": {
+    "total_attacks": 6,
+    "top_groups": [
+      {
+        "group": "Bavarian Liberation Army",
+        "count": 1
+      },
+      {
+        "group": "Black September II",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Black September II",
+    "deadliest_group_killed": 1,
+    "peak_years": [
+      {
+        "year": 1984,
+        "attacks": 1
+      },
+      {
+        "year": 1985,
+        "attacks": 1
+      },
+      {
+        "year": 1991,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2008,
+    "latest_year_attacks": 1
+  },
+  "Russia": {
+    "total_attacks": 2200,
+    "top_groups": [
+      {
+        "group": "Chechen Rebels",
+        "count": 321
+      },
+      {
+        "group": "Caucasus Emirate",
+        "count": 44
+      },
+      {
+        "group": "Caucasus Province of the Islamic State",
+        "count": 17
+      },
+      {
+        "group": "Muslim extremists",
+        "count": 15
+      },
+      {
+        "group": "Gunmen",
+        "count": 12
+      }
+    ],
+    "deadliest_group": "Chechen Rebels",
+    "deadliest_group_killed": 1631,
+    "peak_years": [
+      {
+        "year": 2010,
+        "attacks": 251
+      },
+      {
+        "year": 2011,
+        "attacks": 188
+      },
+      {
+        "year": 2008,
+        "attacks": 170
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 1
+  },
+  "Rwanda": {
+    "total_attacks": 163,
+    "top_groups": [
+      {
+        "group": "Hutu extremists",
+        "count": 45
+      },
+      {
+        "group": "Rwanda Patriotic Front (RPF)",
+        "count": 10
+      },
+      {
+        "group": "Democratic Front for the Liberation of Rwanda (FDLR)",
+        "count": 6
+      },
+      {
+        "group": "RMDC",
+        "count": 3
+      },
+      {
+        "group": "Armed People",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Hutu extremists",
+    "deadliest_group_killed": 2489,
+    "peak_years": [
+      {
+        "year": 1994,
+        "attacks": 33
+      },
+      {
+        "year": 1997,
+        "attacks": 33
+      },
+      {
+        "year": 1992,
+        "attacks": 18
+      }
+    ],
+    "latest_year": 2024,
+    "latest_year_attacks": 1
+  },
+  "Saudi Arabia": {
+    "total_attacks": 372,
+    "top_groups": [
+      {
+        "group": "Houthi extremists (Ansar Allah)",
+        "count": 154
+      },
+      {
+        "group": "Islamic State of Iraq and the Levant (ISIL)",
+        "count": 15
+      },
+      {
+        "group": "Al-Qaida in the Arabian Peninsula (AQAP)",
+        "count": 9
+      },
+      {
+        "group": "Al-Qaida in Saudi Arabia",
+        "count": 8
+      },
+      {
+        "group": "Najd Province of the Islamic State",
+        "count": 8
+      }
+    ],
+    "deadliest_group": "Houthi extremists (Ansar Allah)",
+    "deadliest_group_killed": 216,
+    "peak_years": [
+      {
+        "year": 2016,
+        "attacks": 124
+      },
+      {
+        "year": 2015,
+        "attacks": 103
+      },
+      {
+        "year": 2017,
+        "attacks": 54
+      }
+    ],
+    "latest_year": 2019,
+    "latest_year_attacks": 1
+  },
+  "Senegal": {
+    "total_attacks": 120,
+    "top_groups": [
+      {
+        "group": "Movement of Democratic Forces of Casamance",
+        "count": 79
+      },
+      {
+        "group": "Separatists",
+        "count": 3
+      },
+      {
+        "group": "Casamance Separatists",
+        "count": 1
+      },
+      {
+        "group": "Dioulas tribal group",
+        "count": 1
+      },
+      {
+        "group": "Liberation Front of the Senegalese People",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Movement of Democratic Forces of Casamance",
+    "deadliest_group_killed": 216,
+    "peak_years": [
+      {
+        "year": 1997,
+        "attacks": 26
+      },
+      {
+        "year": 1992,
+        "attacks": 15
+      },
+      {
+        "year": 2012,
+        "attacks": 12
+      }
+    ],
+    "latest_year": 2018,
+    "latest_year_attacks": 2
+  },
+  "Serbia": {
+    "total_attacks": 12,
+    "top_groups": [
+      {
+        "group": "Liberation Army for Presevo, Medvedja and Bujanovac (UCPMB)",
+        "count": 1
+      },
+      {
+        "group": "The Black Sun",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "The Black Sun",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 2008,
+        "attacks": 4
+      },
+      {
+        "year": 2009,
+        "attacks": 3
+      },
+      {
+        "year": 2012,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 1
+  },
+  "Serbia-Montenegro": {
+    "total_attacks": 11,
+    "top_groups": [
+      {
+        "group": "Albanian National Army (ANA)",
+        "count": 1
+      },
+      {
+        "group": "Zemun Clan",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Zemun Clan",
+    "deadliest_group_killed": 1,
+    "peak_years": [
+      {
+        "year": 2003,
+        "attacks": 6
+      },
+      {
+        "year": 2005,
+        "attacks": 2
+      },
+      {
+        "year": 2006,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2006,
+    "latest_year_attacks": 2
+  },
+  "Seychelles": {
+    "total_attacks": 2,
+    "top_groups": [
+      {
+        "group": "Mercenaries",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Mercenaries",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1981,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 1981,
+    "latest_year_attacks": 2
+  },
+  "Sierra Leone": {
+    "total_attacks": 102,
+    "top_groups": [
+      {
+        "group": "Revolutionary United Front (RUF)",
+        "count": 63
+      },
+      {
+        "group": "National Patriotic Front of Liberia (NPFL)",
+        "count": 9
+      },
+      {
+        "group": "Rebels",
+        "count": 3
+      },
+      {
+        "group": "Armed Forces Revolutionary Council (AFRC)",
+        "count": 2
+      },
+      {
+        "group": "Kamajor Hunters",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Revolutionary United Front (RUF)",
+    "deadliest_group_killed": 532,
+    "peak_years": [
+      {
+        "year": 2000,
+        "attacks": 24
+      },
+      {
+        "year": 1994,
+        "attacks": 22
+      },
+      {
+        "year": 1995,
+        "attacks": 14
+      }
+    ],
+    "latest_year": 2021,
+    "latest_year_attacks": 1
+  },
+  "Singapore": {
+    "total_attacks": 7,
+    "top_groups": [
+      {
+        "group": "Al-Zulfikar",
+        "count": 1
+      },
+      {
+        "group": "Japanese Red Army (JRA)",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Al-Zulfikar",
+    "deadliest_group_killed": 4,
+    "peak_years": [
+      {
+        "year": 1987,
+        "attacks": 2
+      },
+      {
+        "year": 1974,
+        "attacks": 1
+      },
+      {
+        "year": 1985,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1994,
+    "latest_year_attacks": 1
+  },
+  "Slovak Republic": {
+    "total_attacks": 18,
+    "top_groups": [
+      {
+        "group": "Neo-Nazi extremists",
+        "count": 2
+      },
+      {
+        "group": "Right-wing extremists",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Neo-Nazi extremists",
+    "deadliest_group_killed": 1,
+    "peak_years": [
+      {
+        "year": 1996,
+        "attacks": 5
+      },
+      {
+        "year": 1997,
+        "attacks": 4
+      },
+      {
+        "year": 1995,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 1
+  },
+  "Slovenia": {
+    "total_attacks": 6,
+    "top_groups": [],
+    "deadliest_group": "Unknown",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1996,
+        "attacks": 3
+      },
+      {
+        "year": 1994,
+        "attacks": 1
+      },
+      {
+        "year": 1997,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2000,
+    "latest_year_attacks": 1
+  },
+  "Solomon Islands": {
+    "total_attacks": 4,
+    "top_groups": [
+      {
+        "group": "Guadalcanal Liberation Army",
+        "count": 1
+      },
+      {
+        "group": "Guadalcanal Liberation Front (GLF)",
+        "count": 1
+      },
+      {
+        "group": "Isatabu Freedom Movement (IFM)",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Guadalcanal Liberation Army",
+    "deadliest_group_killed": 2,
+    "peak_years": [
+      {
+        "year": 1999,
+        "attacks": 1
+      },
+      {
+        "year": 2000,
+        "attacks": 1
+      },
+      {
+        "year": 2002,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2003,
+    "latest_year_attacks": 1
+  },
+  "Somalia": {
+    "total_attacks": 4390,
+    "top_groups": [
+      {
+        "group": "Al-Shabaab",
+        "count": 3064
+      },
+      {
+        "group": "Government of Somalia",
+        "count": 32
+      },
+      {
+        "group": "Mujahideen Youth Movement (MYM)",
+        "count": 23
+      },
+      {
+        "group": "Hizbul al Islam (Somalia)",
+        "count": 18
+      },
+      {
+        "group": "Jabha East Africa",
+        "count": 15
+      }
+    ],
+    "deadliest_group": "Al-Shabaab",
+    "deadliest_group_killed": 8717,
+    "peak_years": [
+      {
+        "year": 2014,
+        "attacks": 872
+      },
+      {
+        "year": 2017,
+        "attacks": 614
+      },
+      {
+        "year": 2016,
+        "attacks": 602
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 6
+  },
+  "South Africa": {
+    "total_attacks": 2031,
+    "top_groups": [
+      {
+        "group": "African National Congress (South Africa)",
+        "count": 600
+      },
+      {
+        "group": "Inkatha Freedom Party (IFP)",
+        "count": 50
+      },
+      {
+        "group": "Government of South Africa",
+        "count": 13
+      },
+      {
+        "group": "White extremists",
+        "count": 12
+      },
+      {
+        "group": "People Against Gangsterism and Drugs (PAGAD)",
+        "count": 10
+      }
+    ],
+    "deadliest_group": "African National Congress (South Africa)",
+    "deadliest_group_killed": 632,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 271
+      },
+      {
+        "year": 1988,
+        "attacks": 245
+      },
+      {
+        "year": 1994,
+        "attacks": 174
+      }
+    ],
+    "latest_year": 2024,
+    "latest_year_attacks": 3
+  },
+  "South Korea": {
+    "total_attacks": 38,
+    "top_groups": [
+      {
+        "group": "Student Radicals",
+        "count": 3
+      },
+      {
+        "group": "Students",
+        "count": 2
+      },
+      {
+        "group": "Chonson Univ. students",
+        "count": 1
+      },
+      {
+        "group": "Chondaehyop (Radical Student Coalition)",
+        "count": 1
+      },
+      {
+        "group": "Anti-Park extremists",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Korean Youth League",
+    "deadliest_group_killed": 1,
+    "peak_years": [
+      {
+        "year": 1988,
+        "attacks": 8
+      },
+      {
+        "year": 1991,
+        "attacks": 6
+      },
+      {
+        "year": 1995,
+        "attacks": 4
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 1
+  },
+  "South Sudan": {
+    "total_attacks": 341,
+    "top_groups": [
+      {
+        "group": "Government of South Sudan",
+        "count": 101
+      },
+      {
+        "group": "Sudan People's Liberation Movement in Opposition (SPLM-IO)",
+        "count": 99
+      },
+      {
+        "group": "SPLM/A - IO",
+        "count": 14
+      },
+      {
+        "group": "Murle Tribe",
+        "count": 11
+      },
+      {
+        "group": "David Yau Yau Militia",
+        "count": 6
+      }
+    ],
+    "deadliest_group": "Sudan People's Liberation Movement in Opposition (SPLM-IO)",
+    "deadliest_group_killed": 1749,
+    "peak_years": [
+      {
+        "year": 2016,
+        "attacks": 59
+      },
+      {
+        "year": 2015,
+        "attacks": 54
+      },
+      {
+        "year": 2017,
+        "attacks": 54
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 8
+  },
+  "South Vietnam": {
+    "total_attacks": 1,
+    "top_groups": [],
+    "deadliest_group": "Unknown",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1972,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1972,
+    "latest_year_attacks": 1
+  },
+  "South Yemen": {
+    "total_attacks": 2,
+    "top_groups": [
+      {
+        "group": "Palestinians",
+        "count": 1
+      },
+      {
+        "group": "Popular Front for the Liberation of Palestine (PFLP)",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Palestinians",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1971,
+        "attacks": 1
+      },
+      {
+        "year": 1983,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1983,
+    "latest_year_attacks": 1
+  },
+  "Soviet Union": {
+    "total_attacks": 78,
+    "top_groups": [
+      {
+        "group": "Armenian Guerrillas",
+        "count": 5
+      },
+      {
+        "group": "Armenian nationalists",
+        "count": 3
+      },
+      {
+        "group": "Armenian militants",
+        "count": 3
+      },
+      {
+        "group": "Black Berets",
+        "count": 3
+      },
+      {
+        "group": "Armenian extremists",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Armenian militants",
+    "deadliest_group_killed": 21,
+    "peak_years": [
+      {
+        "year": 1990,
+        "attacks": 36
+      },
+      {
+        "year": 1991,
+        "attacks": 34
+      },
+      {
+        "year": 1989,
+        "attacks": 7
+      }
+    ],
+    "latest_year": 1991,
+    "latest_year_attacks": 34
+  },
+  "Spain": {
+    "total_attacks": 3249,
+    "top_groups": [
+      {
+        "group": "Basque Fatherland and Freedom (ETA)",
+        "count": 1975
+      },
+      {
+        "group": "First of October Antifascist Resistance Group (GRAPO)",
+        "count": 207
+      },
+      {
+        "group": "Terra Lliure",
+        "count": 62
+      },
+      {
+        "group": "Revolutionary Patriotic Anti-Fascist Front (FRAP)",
+        "count": 49
+      },
+      {
+        "group": "Free Galician People's Guerrilla Army",
+        "count": 47
+      }
+    ],
+    "deadliest_group": "Basque Fatherland and Freedom (ETA)",
+    "deadliest_group_killed": 814,
+    "peak_years": [
+      {
+        "year": 1979,
+        "attacks": 279
+      },
+      {
+        "year": 1978,
+        "attacks": 209
+      },
+      {
+        "year": 1980,
+        "attacks": 187
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 4
+  },
+  "Sri Lanka": {
+    "total_attacks": 3026,
+    "top_groups": [
+      {
+        "group": "Liberation Tigers of Tamil Eelam (LTTE)",
+        "count": 1596
+      },
+      {
+        "group": "People's Liberation Front (JVP)",
+        "count": 433
+      },
+      {
+        "group": "Tamils",
+        "count": 215
+      },
+      {
+        "group": "Separatists",
+        "count": 40
+      },
+      {
+        "group": "Anti-Muslim extremists",
+        "count": 30
+      }
+    ],
+    "deadliest_group": "Liberation Tigers of Tamil Eelam (LTTE)",
+    "deadliest_group_killed": 10928,
+    "peak_years": [
+      {
+        "year": 1989,
+        "attacks": 510
+      },
+      {
+        "year": 1988,
+        "attacks": 350
+      },
+      {
+        "year": 2006,
+        "attacks": 217
+      }
+    ],
+    "latest_year": 2019,
+    "latest_year_attacks": 4
+  },
+  "St. Kitts and Nevis": {
+    "total_attacks": 2,
+    "top_groups": [
+      {
+        "group": "St. Kitts Nevis Labor Party",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "St. Kitts Nevis Labor Party",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1995,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 1995,
+    "latest_year_attacks": 2
+  },
+  "St. Lucia": {
+    "total_attacks": 1,
+    "top_groups": [
+      {
+        "group": "Rastas",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Rastas",
+    "deadliest_group_killed": 2,
+    "peak_years": [
+      {
+        "year": 2000,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2000,
+    "latest_year_attacks": 1
+  },
+  "Sudan": {
+    "total_attacks": 1708,
+    "top_groups": [
+      {
+        "group": "RSF",
+        "count": 311
+      },
+      {
+        "group": "Government of Sudan",
+        "count": 275
+      },
+      {
+        "group": "Janjaweed",
+        "count": 213
+      },
+      {
+        "group": "SFA",
+        "count": 143
+      },
+      {
+        "group": "Sudan People's Liberation Movement - North",
+        "count": 59
+      }
+    ],
+    "deadliest_group": "SFA",
+    "deadliest_group_killed": 61973,
+    "peak_years": [
+      {
+        "year": 2024,
+        "attacks": 228
+      },
+      {
+        "year": 2025,
+        "attacks": 205
+      },
+      {
+        "year": 2016,
+        "attacks": 173
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 205
+  },
+  "Suriname": {
+    "total_attacks": 66,
+    "top_groups": [
+      {
+        "group": "Brunswijk Jungle Commando",
+        "count": 41
+      },
+      {
+        "group": "National Liberation Union",
+        "count": 2
+      },
+      {
+        "group": "Surinamese Amerindians",
+        "count": 2
+      },
+      {
+        "group": "White Mercenaries",
+        "count": 2
+      },
+      {
+        "group": "Suriname Liberation Front",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Brunswijk Jungle Commando",
+    "deadliest_group_killed": 20,
+    "peak_years": [
+      {
+        "year": 1989,
+        "attacks": 17
+      },
+      {
+        "year": 1987,
+        "attacks": 13
+      },
+      {
+        "year": 1988,
+        "attacks": 9
+      }
+    ],
+    "latest_year": 1997,
+    "latest_year_attacks": 2
+  },
+  "Swaziland": {
+    "total_attacks": 37,
+    "top_groups": [
+      {
+        "group": "Government of eSwatini (Swaziland)",
+        "count": 21
+      },
+      {
+        "group": "Umbane People's Liberation Army (Swaziland)",
+        "count": 2
+      },
+      {
+        "group": "African National Congress (South Africa)",
+        "count": 1
+      },
+      {
+        "group": "Mozambique National Resistance Movement (MNR)",
+        "count": 1
+      },
+      {
+        "group": "People's United Democratic Movement (PUDEMO)",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Government of eSwatini (Swaziland)",
+    "deadliest_group_killed": 57,
+    "peak_years": [
+      {
+        "year": 2021,
+        "attacks": 11
+      },
+      {
+        "year": 2008,
+        "attacks": 3
+      },
+      {
+        "year": 2019,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 1
+  },
+  "Sweden": {
+    "total_attacks": 132,
+    "top_groups": [
+      {
+        "group": "Neo-Nazi extremists",
+        "count": 5
+      },
+      {
+        "group": "Croatian Nationalists",
+        "count": 4
+      },
+      {
+        "group": "Global Intifada",
+        "count": 3
+      },
+      {
+        "group": "Nordic Resistance Movement",
+        "count": 3
+      },
+      {
+        "group": "Iraqi extremists",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Jihadi-inspired extremists",
+    "deadliest_group_killed": 5,
+    "peak_years": [
+      {
+        "year": 2015,
+        "attacks": 32
+      },
+      {
+        "year": 2017,
+        "attacks": 18
+      },
+      {
+        "year": 2016,
+        "attacks": 16
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 18
+  },
+  "Switzerland": {
+    "total_attacks": 111,
+    "top_groups": [
+      {
+        "group": "Armenian Secret Army for the Liberation of Armenia",
+        "count": 15
+      },
+      {
+        "group": "Revolutionary Perspective",
+        "count": 5
+      },
+      {
+        "group": "Black September",
+        "count": 4
+      },
+      {
+        "group": "Justice Commandos for the Armenian Genocide",
+        "count": 2
+      },
+      {
+        "group": "Iberian Liberation Movement (MIL)",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Popular Front for the Liberation of Palestine, Gen Cmd (PFLP-GC)",
+    "deadliest_group_killed": 47,
+    "peak_years": [
+      {
+        "year": 1981,
+        "attacks": 13
+      },
+      {
+        "year": 1980,
+        "attacks": 7
+      },
+      {
+        "year": 1985,
+        "attacks": 7
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 1
+  },
+  "Syria": {
+    "total_attacks": 2849,
+    "top_groups": [
+      {
+        "group": "Islamic State of Iraq and the Levant (ISIL)",
+        "count": 594
+      },
+      {
+        "group": "IS",
+        "count": 260
+      },
+      {
+        "group": "Al-Nusrah Front",
+        "count": 247
+      },
+      {
+        "group": "Government of Syria",
+        "count": 179
+      },
+      {
+        "group": "Syrian insurgents",
+        "count": 117
+      }
+    ],
+    "deadliest_group": "Islamic State of Iraq and the Levant (ISIL)",
+    "deadliest_group_killed": 6883,
+    "peak_years": [
+      {
+        "year": 2015,
+        "attacks": 491
+      },
+      {
+        "year": 2016,
+        "attacks": 473
+      },
+      {
+        "year": 2014,
+        "attacks": 331
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 154
+  },
+  "Taiwan": {
+    "total_attacks": 50,
+    "top_groups": [
+      {
+        "group": "Anti-Nuclear extremists",
+        "count": 2
+      },
+      {
+        "group": "Chinese Illegal Immigrant",
+        "count": 1
+      },
+      {
+        "group": "Democratic Progressive Party",
+        "count": 1
+      },
+      {
+        "group": "Gang",
+        "count": 1
+      },
+      {
+        "group": "Organized Crime",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Anti-Nuclear extremists",
+    "deadliest_group_killed": 1,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 20
+      },
+      {
+        "year": 1994,
+        "attacks": 5
+      },
+      {
+        "year": 1996,
+        "attacks": 5
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 1
+  },
+  "Tajikistan": {
+    "total_attacks": 189,
+    "top_groups": [
+      {
+        "group": "People's Democratic Army",
+        "count": 4
+      },
+      {
+        "group": "Jihadi-inspired extremists",
+        "count": 3
+      },
+      {
+        "group": "Gunmen",
+        "count": 2
+      },
+      {
+        "group": "Muslim Militants",
+        "count": 2
+      },
+      {
+        "group": "Rizvon Sadirov Group",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Islamic Movement of Uzbekistan (IMU)",
+    "deadliest_group_killed": 4,
+    "peak_years": [
+      {
+        "year": 1997,
+        "attacks": 40
+      },
+      {
+        "year": 1995,
+        "attacks": 34
+      },
+      {
+        "year": 1994,
+        "attacks": 31
+      }
+    ],
+    "latest_year": 2018,
+    "latest_year_attacks": 1
+  },
+  "Tanzania": {
+    "total_attacks": 146,
+    "top_groups": [
+      {
+        "group": "Government of Tanzania",
+        "count": 82
+      },
+      {
+        "group": "IS",
+        "count": 5
+      },
+      {
+        "group": "The Association for Islamic Mobilisation and Propagation (UAMSHO)",
+        "count": 4
+      },
+      {
+        "group": "Al-Qaida",
+        "count": 1
+      },
+      {
+        "group": "Al-Shabaab",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Government of Tanzania",
+    "deadliest_group_killed": 1039,
+    "peak_years": [
+      {
+        "year": 2025,
+        "attacks": 57
+      },
+      {
+        "year": 2020,
+        "attacks": 15
+      },
+      {
+        "year": 2015,
+        "attacks": 14
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 57
+  },
+  "Thailand": {
+    "total_attacks": 3890,
+    "top_groups": [
+      {
+        "group": "Separatists",
+        "count": 326
+      },
+      {
+        "group": "Runda Kumpulan Kecil (RKK)",
+        "count": 150
+      },
+      {
+        "group": "Barisan Revolusi Nasional (BRN)",
+        "count": 84
+      },
+      {
+        "group": "Thai Islamic Militants",
+        "count": 58
+      },
+      {
+        "group": "Pattani United Liberation Organization (PULO)",
+        "count": 48
+      }
+    ],
+    "deadliest_group": "Separatists",
+    "deadliest_group_killed": 251,
+    "peak_years": [
+      {
+        "year": 2013,
+        "attacks": 472
+      },
+      {
+        "year": 2014,
+        "attacks": 423
+      },
+      {
+        "year": 2016,
+        "attacks": 329
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 7
+  },
+  "Togo": {
+    "total_attacks": 66,
+    "top_groups": [
+      {
+        "group": "JNIM",
+        "count": 17
+      },
+      {
+        "group": "Togolese Dissidents",
+        "count": 3
+      },
+      {
+        "group": "Government of Togo",
+        "count": 1
+      },
+      {
+        "group": "Rebel Military Unit",
+        "count": 1
+      },
+      {
+        "group": "Togolese Peoples Rally",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "JNIM",
+    "deadliest_group_killed": 97,
+    "peak_years": [
+      {
+        "year": 1992,
+        "attacks": 27
+      },
+      {
+        "year": 1994,
+        "attacks": 13
+      },
+      {
+        "year": 2023,
+        "attacks": 8
+      }
+    ],
+    "latest_year": 2024,
+    "latest_year_attacks": 5
+  },
+  "Trinidad and Tobago": {
+    "total_attacks": 22,
+    "top_groups": [
+      {
+        "group": "Taxi Drivers",
+        "count": 3
+      },
+      {
+        "group": "Professional Killers",
+        "count": 2
+      },
+      {
+        "group": "Coordination of the United Revolutionary Organization (CORU)",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Professional Killers",
+    "deadliest_group_killed": 2,
+    "peak_years": [
+      {
+        "year": 1995,
+        "attacks": 4
+      },
+      {
+        "year": 1996,
+        "attacks": 3
+      },
+      {
+        "year": 2013,
+        "attacks": 3
+      }
+    ],
+    "latest_year": 2015,
+    "latest_year_attacks": 1
+  },
+  "Tunisia": {
+    "total_attacks": 110,
+    "top_groups": [
+      {
+        "group": "Okba Ibn Nafaa Brigade",
+        "count": 14
+      },
+      {
+        "group": "Muslim extremists",
+        "count": 12
+      },
+      {
+        "group": "Ansar al-Sharia (Tunisia)",
+        "count": 11
+      },
+      {
+        "group": "Jund al-Khilafah (Tunisia)",
+        "count": 10
+      },
+      {
+        "group": "Islamic State of Iraq and the Levant (ISIL)",
+        "count": 5
+      }
+    ],
+    "deadliest_group": "Jund al-Khilafah (Tunisia)",
+    "deadliest_group_killed": 92,
+    "peak_years": [
+      {
+        "year": 2013,
+        "attacks": 29
+      },
+      {
+        "year": 2014,
+        "attacks": 23
+      },
+      {
+        "year": 2015,
+        "attacks": 17
+      }
+    ],
+    "latest_year": 2018,
+    "latest_year_attacks": 1
+  },
+  "Turkey": {
+    "total_attacks": 4307,
+    "top_groups": [
+      {
+        "group": "Kurdistan Workers' Party (PKK)",
+        "count": 2109
+      },
+      {
+        "group": "Dev Sol",
+        "count": 236
+      },
+      {
+        "group": "Islamic State of Iraq and the Levant (ISIL)",
+        "count": 82
+      },
+      {
+        "group": "Turkish People's Liberation Army",
+        "count": 69
+      },
+      {
+        "group": "Devrimici Halk Kurtulus Cephesi (DHKP/C)",
+        "count": 41
+      }
+    ],
+    "deadliest_group": "Kurdistan Workers' Party (PKK)",
+    "deadliest_group_killed": 4845,
+    "peak_years": [
+      {
+        "year": 2016,
+        "attacks": 542
+      },
+      {
+        "year": 1992,
+        "attacks": 514
+      },
+      {
+        "year": 2015,
+        "attacks": 422
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 1
+  },
+  "Turkmenistan": {
+    "total_attacks": 2,
+    "top_groups": [
+      {
+        "group": "Gunmen",
+        "count": 1
+      },
+      {
+        "group": "Taliban",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Taliban",
+    "deadliest_group_killed": 3,
+    "peak_years": [
+      {
+        "year": 2002,
+        "attacks": 1
+      },
+      {
+        "year": 2014,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2014,
+    "latest_year_attacks": 1
+  },
+  "Uganda": {
+    "total_attacks": 408,
+    "top_groups": [
+      {
+        "group": "Lord's Resistance Army (LRA)",
+        "count": 130
+      },
+      {
+        "group": "Allied Democratic Forces (ADF)",
+        "count": 49
+      },
+      {
+        "group": "Uganda Freedom Movement (UFM)",
+        "count": 19
+      },
+      {
+        "group": "Uganda People's Army",
+        "count": 15
+      },
+      {
+        "group": "IS",
+        "count": 7
+      }
+    ],
+    "deadliest_group": "Lord's Resistance Army (LRA)",
+    "deadliest_group_killed": 1319,
+    "peak_years": [
+      {
+        "year": 2003,
+        "attacks": 30
+      },
+      {
+        "year": 1996,
+        "attacks": 29
+      },
+      {
+        "year": 1981,
+        "attacks": 25
+      }
+    ],
+    "latest_year": 2024,
+    "latest_year_attacks": 2
+  },
+  "Ukraine": {
+    "total_attacks": 1945,
+    "top_groups": [
+      {
+        "group": "Donetsk People's Republic",
+        "count": 624
+      },
+      {
+        "group": "Government of Russia (Soviet Union)",
+        "count": 236
+      },
+      {
+        "group": "Luhansk People's Republic",
+        "count": 209
+      },
+      {
+        "group": "Pro-Russia Militia",
+        "count": 19
+      },
+      {
+        "group": "Cossack Separatists",
+        "count": 7
+      }
+    ],
+    "deadliest_group": "Donetsk People's Republic",
+    "deadliest_group_killed": 1657,
+    "peak_years": [
+      {
+        "year": 2014,
+        "attacks": 895
+      },
+      {
+        "year": 2015,
+        "attacks": 637
+      },
+      {
+        "year": 2022,
+        "attacks": 210
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 8
+  },
+  "United Arab Emirates": {
+    "total_attacks": 22,
+    "top_groups": [
+      {
+        "group": "Abdullah Azzam Brigades",
+        "count": 1
+      },
+      {
+        "group": "Abu Nidal Organization (ANO)",
+        "count": 1
+      },
+      {
+        "group": "Al-Qaida in the Arabian Peninsula (AQAP)",
+        "count": 1
+      },
+      {
+        "group": "Iranians",
+        "count": 1
+      },
+      {
+        "group": "Palestinians",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Abu Nidal Organization (ANO)",
+    "deadliest_group_killed": 111,
+    "peak_years": [
+      {
+        "year": 1981,
+        "attacks": 3
+      },
+      {
+        "year": 1979,
+        "attacks": 2
+      },
+      {
+        "year": 1985,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2014,
+    "latest_year_attacks": 2
+  },
+  "United Kingdom": {
+    "total_attacks": 5236,
+    "top_groups": [
+      {
+        "group": "Irish Republican Army (IRA)",
+        "count": 2575
+      },
+      {
+        "group": "Protestant extremists",
+        "count": 328
+      },
+      {
+        "group": "Ulster Volunteer Force (UVF)",
+        "count": 261
+      },
+      {
+        "group": "Ulster Freedom Fighters (UFF)",
+        "count": 218
+      },
+      {
+        "group": "Irish National Liberation Army (INLA)",
+        "count": 113
+      }
+    ],
+    "deadliest_group": "Irish Republican Army (IRA)",
+    "deadliest_group_killed": 1741,
+    "peak_years": [
+      {
+        "year": 1972,
+        "attacks": 292
+      },
+      {
+        "year": 1992,
+        "attacks": 274
+      },
+      {
+        "year": 1991,
+        "attacks": 262
+      }
+    ],
+    "latest_year": 2019,
+    "latest_year_attacks": 1
+  },
+  "United States": {
+    "total_attacks": 2839,
+    "top_groups": [
+      {
+        "group": "Anti-Abortion extremists",
+        "count": 196
+      },
+      {
+        "group": "Left-Wing Militants",
+        "count": 169
+      },
+      {
+        "group": "Fuerzas Armadas de Liberacion Nacional (FALN)",
+        "count": 120
+      },
+      {
+        "group": "White extremists",
+        "count": 87
+      },
+      {
+        "group": "New World Liberation Front (NWLF)",
+        "count": 86
+      }
+    ],
+    "deadliest_group": "Al-Qaida",
+    "deadliest_group_killed": 3001,
+    "peak_years": [
+      {
+        "year": 1970,
+        "attacks": 468
+      },
+      {
+        "year": 1971,
+        "attacks": 247
+      },
+      {
+        "year": 1975,
+        "attacks": 149
+      }
+    ],
+    "latest_year": 2019,
+    "latest_year_attacks": 1
+  },
+  "Uruguay": {
+    "total_attacks": 82,
+    "top_groups": [
+      {
+        "group": "Tupamaros (Uruguay)",
+        "count": 41
+      },
+      {
+        "group": "Black September",
+        "count": 6
+      },
+      {
+        "group": "Nationalist Patriotic Alliance (APN)",
+        "count": 4
+      },
+      {
+        "group": "Anti-Semitic extremists",
+        "count": 1
+      },
+      {
+        "group": "Artigas Guard Commando",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Tupamaros (Uruguay)",
+    "deadliest_group_killed": 4,
+    "peak_years": [
+      {
+        "year": 1970,
+        "attacks": 33
+      },
+      {
+        "year": 1992,
+        "attacks": 11
+      },
+      {
+        "year": 1971,
+        "attacks": 8
+      }
+    ],
+    "latest_year": 2016,
+    "latest_year_attacks": 1
+  },
+  "Uzbekistan": {
+    "total_attacks": 21,
+    "top_groups": [
+      {
+        "group": "Islamic Jihad Group (IJG)",
+        "count": 3
+      },
+      {
+        "group": "Islamic Jihad Union (Uzbekistan)",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Islamic Jihad Group (IJG)",
+    "deadliest_group_killed": 7,
+    "peak_years": [
+      {
+        "year": 1999,
+        "attacks": 8
+      },
+      {
+        "year": 2004,
+        "attacks": 5
+      },
+      {
+        "year": 1992,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2015,
+    "latest_year_attacks": 1
+  },
+  "Vanuatu": {
+    "total_attacks": 2,
+    "top_groups": [
+      {
+        "group": "Vanuatu Mobile Force (VMF)",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Vanuatu Mobile Force (VMF)",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1996,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 1996,
+    "latest_year_attacks": 2
+  },
+  "Vatican City": {
+    "total_attacks": 1,
+    "top_groups": [
+      {
+        "group": "Grey Wolves",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Grey Wolves",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1981,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1981,
+    "latest_year_attacks": 1
+  },
+  "Venezuela": {
+    "total_attacks": 514,
+    "top_groups": [
+      {
+        "group": "Government of Venezuela",
+        "count": 206
+      },
+      {
+        "group": "National Liberation Army of Colombia (ELN)",
+        "count": 32
+      },
+      {
+        "group": "Red Flag (Venezuela)",
+        "count": 24
+      },
+      {
+        "group": "ELN",
+        "count": 12
+      },
+      {
+        "group": "Colombian Guerrillas",
+        "count": 10
+      }
+    ],
+    "deadliest_group": "Government of Venezuela",
+    "deadliest_group_killed": 217,
+    "peak_years": [
+      {
+        "year": 2018,
+        "attacks": 91
+      },
+      {
+        "year": 2019,
+        "attacks": 76
+      },
+      {
+        "year": 1997,
+        "attacks": 41
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 1
+  },
+  "Vietnam": {
+    "total_attacks": 12,
+    "top_groups": [
+      {
+        "group": "Provisional National Government of Vietnam",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Provisional National Government of Vietnam",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 2001,
+        "attacks": 4
+      },
+      {
+        "year": 1997,
+        "attacks": 2
+      },
+      {
+        "year": 2017,
+        "attacks": 2
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 2
+  },
+  "Wallis and Futuna": {
+    "total_attacks": 1,
+    "top_groups": [],
+    "deadliest_group": "Unknown",
+    "deadliest_group_killed": 0,
+    "peak_years": [
+      {
+        "year": 1994,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 1994,
+    "latest_year_attacks": 1
+  },
+  "West Bank and Gaza Strip": {
+    "total_attacks": 2227,
+    "top_groups": [
+      {
+        "group": "Palestinians",
+        "count": 489
+      },
+      {
+        "group": "Palestinian Extremists",
+        "count": 355
+      },
+      {
+        "group": "Hamas (Islamic Resistance Movement)",
+        "count": 200
+      },
+      {
+        "group": "Al-Aqsa Martyrs Brigade",
+        "count": 95
+      },
+      {
+        "group": "Palestinian Islamic Jihad (PIJ)",
+        "count": 52
+      }
+    ],
+    "deadliest_group": "Hamas (Islamic Resistance Movement)",
+    "deadliest_group_killed": 313,
+    "peak_years": [
+      {
+        "year": 2015,
+        "attacks": 246
+      },
+      {
+        "year": 1994,
+        "attacks": 165
+      },
+      {
+        "year": 2016,
+        "attacks": 157
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 83
+  },
+  "West Germany (FRG)": {
+    "total_attacks": 541,
+    "top_groups": [
+      {
+        "group": "Red Army Faction (RAF)",
+        "count": 55
+      },
+      {
+        "group": "Revolutionary Cells",
+        "count": 52
+      },
+      {
+        "group": "Baader-Meinhof Group",
+        "count": 29
+      },
+      {
+        "group": "Irish Republican Army (IRA)",
+        "count": 27
+      },
+      {
+        "group": "2nd of June Movement",
+        "count": 12
+      }
+    ],
+    "deadliest_group": "Black September",
+    "deadliest_group_killed": 16,
+    "peak_years": [
+      {
+        "year": 1985,
+        "attacks": 53
+      },
+      {
+        "year": 1976,
+        "attacks": 50
+      },
+      {
+        "year": 1986,
+        "attacks": 46
+      }
+    ],
+    "latest_year": 1990,
+    "latest_year_attacks": 9
+  },
+  "Western Sahara": {
+    "total_attacks": 5,
+    "top_groups": [
+      {
+        "group": "Polisario Front",
+        "count": 3
+      }
+    ],
+    "deadliest_group": "Polisario Front",
+    "deadliest_group_killed": 1,
+    "peak_years": [
+      {
+        "year": 1978,
+        "attacks": 1
+      },
+      {
+        "year": 1984,
+        "attacks": 1
+      },
+      {
+        "year": 1986,
+        "attacks": 1
+      }
+    ],
+    "latest_year": 2007,
+    "latest_year_attacks": 1
+  },
+  "Yemen": {
+    "total_attacks": 3441,
+    "top_groups": [
+      {
+        "group": "Al-Qaida in the Arabian Peninsula (AQAP)",
+        "count": 1007
+      },
+      {
+        "group": "Houthi extremists (Ansar Allah)",
+        "count": 908
+      },
+      {
+        "group": "Government of Yemen (North Yemen)",
+        "count": 92
+      },
+      {
+        "group": "Tribesmen",
+        "count": 90
+      },
+      {
+        "group": "Southern Mobility Movement (Yemen)",
+        "count": 59
+      }
+    ],
+    "deadliest_group": "Al-Qaida in the Arabian Peninsula (AQAP)",
+    "deadliest_group_killed": 3504,
+    "peak_years": [
+      {
+        "year": 2014,
+        "attacks": 763
+      },
+      {
+        "year": 2015,
+        "attacks": 664
+      },
+      {
+        "year": 2016,
+        "attacks": 525
+      }
+    ],
+    "latest_year": 2025,
+    "latest_year_attacks": 34
+  },
+  "Yugoslavia": {
+    "total_attacks": 203,
+    "top_groups": [
+      {
+        "group": "Kosovo Liberation Army (KLA)",
+        "count": 40
+      },
+      {
+        "group": "Albanian extremists",
+        "count": 10
+      },
+      {
+        "group": "Gunmen",
+        "count": 4
+      },
+      {
+        "group": "Serbian guerrillas",
+        "count": 3
+      },
+      {
+        "group": "Neo-Nazi extremists",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Kosovo Liberation Army (KLA)",
+    "deadliest_group_killed": 35,
+    "peak_years": [
+      {
+        "year": 1998,
+        "attacks": 46
+      },
+      {
+        "year": 1997,
+        "attacks": 38
+      },
+      {
+        "year": 1999,
+        "attacks": 23
+      }
+    ],
+    "latest_year": 2002,
+    "latest_year_attacks": 3
+  },
+  "Zaire": {
+    "total_attacks": 50,
+    "top_groups": [
+      {
+        "group": "Hutu extremists",
+        "count": 4
+      },
+      {
+        "group": "Black September",
+        "count": 3
+      },
+      {
+        "group": "Congolese National Movement- Lumumba (MNCL)",
+        "count": 2
+      },
+      {
+        "group": "Hutus Former Soldiers",
+        "count": 2
+      },
+      {
+        "group": "Tutsi extremists",
+        "count": 2
+      }
+    ],
+    "deadliest_group": "Hutu extremists",
+    "deadliest_group_killed": 111,
+    "peak_years": [
+      {
+        "year": 1996,
+        "attacks": 13
+      },
+      {
+        "year": 1991,
+        "attacks": 6
+      },
+      {
+        "year": 1994,
+        "attacks": 6
+      }
+    ],
+    "latest_year": 1997,
+    "latest_year_attacks": 5
+  },
+  "Zambia": {
+    "total_attacks": 62,
+    "top_groups": [
+      {
+        "group": "National Union for the Total Independence of Angola (UNITA)",
+        "count": 15
+      },
+      {
+        "group": "Mozambique National Resistance Movement (MNR)",
+        "count": 10
+      },
+      {
+        "group": "African National Congress (South Africa)",
+        "count": 2
+      },
+      {
+        "group": "Black Mambas",
+        "count": 1
+      },
+      {
+        "group": "Revolutionary Committee of Mozambique (COREMO)",
+        "count": 1
+      }
+    ],
+    "deadliest_group": "Mozambique National Resistance Movement (MNR)",
+    "deadliest_group_killed": 44,
+    "peak_years": [
+      {
+        "year": 1989,
+        "attacks": 18
+      },
+      {
+        "year": 2000,
+        "attacks": 8
+      },
+      {
+        "year": 1999,
+        "attacks": 7
+      }
+    ],
+    "latest_year": 2017,
+    "latest_year_attacks": 2
+  },
+  "Zimbabwe": {
+    "total_attacks": 112,
+    "top_groups": [
+      {
+        "group": "Zimbabwe African Nationalist Union (ZANU)",
+        "count": 13
+      },
+      {
+        "group": "Government of Zimbabwe (Rhodesia)",
+        "count": 11
+      },
+      {
+        "group": "Mozambique National Resistance Movement (MNR)",
+        "count": 8
+      },
+      {
+        "group": "Supporters of Joshua Nkomo",
+        "count": 8
+      },
+      {
+        "group": "Movement for Democratic Change (MDC)",
+        "count": 3
+      }
+    ],
+    "deadliest_group": "Mozambique National Resistance Movement (MNR)",
+    "deadliest_group_killed": 37,
+    "peak_years": [
+      {
+        "year": 1980,
+        "attacks": 14
+      },
+      {
+        "year": 1982,
+        "attacks": 12
+      },
+      {
+        "year": 1987,
+        "attacks": 11
+      }
+    ],
+    "latest_year": 2020,
+    "latest_year_attacks": 1
+  }
+}

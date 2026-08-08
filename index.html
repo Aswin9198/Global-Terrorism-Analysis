@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Global Terrorism Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="map"></div>
+
+  <div id="title-bar">
+    <h1>Global Terrorism Analysis, 1970–2025</h1>
+    <p>Sources: Global Terrorism Database (1970–2017), UCDP one-sided violence (2018–2025). Click any country for details.</p>
+  </div>
+
+  <div id="legend">
+    <div class="legend-title">Total recorded attacks</div>
+    <div class="legend-row"><span class="swatch" style="background:#e0e0e0"></span> None recorded</div>
+    <div class="legend-row"><span class="swatch" style="background:#fee5d9"></span> Low</div>
+    <div class="legend-row"><span class="swatch" style="background:#fcae91"></span> Moderate</div>
+    <div class="legend-row"><span class="swatch" style="background:#fb6a4a"></span> High</div>
+    <div class="legend-row"><span class="swatch" style="background:#de2d26"></span> Severe</div>
+    <div class="legend-row"><span class="swatch" style="background:#67000d"></span> Extreme</div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
