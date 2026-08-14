@@ -1,29 +1,98 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Global Terrorism Map</title>
+  <title>Global Terrorism Analysis</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div id="map"></div>
 
-  <div id="title-bar">
+<div class="report">
+
+  <header>
     <h1>Global Terrorism Analysis, 1970–2025</h1>
-    <p>Sources: Global Terrorism Database (1970–2017), UCDP one-sided violence (2018–2025). Click any country for details.</p>
-  </div>
+    <p class="byline">A data analysis project by Aswin | Data: Global Terrorism Database (GTD) &amp; UCDP Georeferenced Event Dataset</p>
+  </header>
 
-  <div id="legend">
-    <div class="legend-title">Total recorded attacks</div>
-    <div class="legend-row"><span class="swatch" style="background:#e0e0e0"></span> None recorded</div>
-    <div class="legend-row"><span class="swatch" style="background:#fee5d9"></span> Low</div>
-    <div class="legend-row"><span class="swatch" style="background:#fcae91"></span> Moderate</div>
-    <div class="legend-row"><span class="swatch" style="background:#fb6a4a"></span> High</div>
-    <div class="legend-row"><span class="swatch" style="background:#de2d26"></span> Severe</div>
-    <div class="legend-row"><span class="swatch" style="background:#67000d"></span> Extreme</div>
-  </div>
+  <section>
+    <h2>Introduction</h2>
+    <p>This project explores over five decades of recorded terrorism incidents worldwide, combining two independent research datasets to build a continuous historical picture from 1970 through 2025. The goal is to identify how attack frequency has changed over time, which countries and groups have been most active, and to make that data explorable through an interactive world map.</p>
+  </section>
 
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="script.js"></script>
+  <section>
+    <h2>Data &amp; Methodology</h2>
+    <p>Two datasets were combined to cover this timespan:</p>
+    <ul>
+      <li><strong>Global Terrorism Database (GTD)</strong>, maintained by the START consortium at the University of Maryland, covering 1970–2017.</li>
+      <li><strong>UCDP Georeferenced Event Dataset (GED)</strong>, maintained by Uppsala University, filtered to "one-sided violence" events, covering 2018–2025.</li>
+    </ul>
+    <p><strong>Important caveat:</strong> these two datasets use different definitions. GTD counts a broad range of incidents classified as terrorism, while the UCDP filter used here captures only deliberate attacks on civilians. This means the two eras in this dataset are not perfectly comparable in raw magnitude — a methodology change, not a real-world drop in violence, likely explains any sharp shift around 2018 in the charts below. Country names were also manually standardized across both sources (e.g. historical names like "Zaire" and "Burma" were mapped to their modern equivalents) to allow accurate merging.</p>
+  </section>
+
+  <section>
+    <h2>Key Findings</h2>
+
+    <div class="finding">
+      <img src="chart_yearly_trend.png" alt="Terrorist attacks per year, 1970 to 2025" />
+      <p>Global attack frequency shows a long-term upward trend across the dataset, with a sharp, artificial-looking dip around 1993 — a known gap in GTD's original data collection for that year rather than an actual lull in violence. Attacks climb substantially after 2011, coinciding with the rise of ISIL and escalating conflicts in the Middle East and parts of Africa.</p>
+    </div>
+
+    <div class="finding">
+      <img src="chart_top_countries.png" alt="Top 15 countries by total recorded attacks" />
+      <p>A small number of countries account for a disproportionate share of recorded attacks, concentrated heavily in long-running conflict zones such as Afghanistan, Iraq, Pakistan, Colombia, and Peru. This concentration reflects sustained insurgent and militant activity in these regions across multiple decades, rather than isolated spikes.</p>
+    </div>
+
+    <div class="finding">
+      <img src="chart_top_groups.png" alt="Top 10 named groups by total attacks" />
+      <p>Among named groups, the Taliban and Islamic State of Iraq and the Levant (ISIL) rank highest by total attack count, followed by groups including Shining Path, FMLN, Al-Shabaab, and the Irish Republican Army — reflecting both the intensity of specific ongoing conflicts and decades-long historical insurgencies.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Explore the Interactive Map</h2>
+    <p>The map below lets you explore country-level data directly. Countries are shaded by total recorded attacks — hover to highlight a country, and click any country for a full breakdown, including its most active groups, its single deadliest group by lives lost, and its peak years of activity.</p>
+
+    <div id="map-wrapper">
+      <div id="map"></div>
+      <div id="legend">
+        <div class="legend-title">Total recorded attacks</div>
+        <div class="legend-row"><span class="swatch" style="background:#e0e0e0"></span> None recorded</div>
+        <div class="legend-row"><span class="swatch" style="background:#fee5d9"></span> Low</div>
+        <div class="legend-row"><span class="swatch" style="background:#fcae91"></span> Moderate</div>
+        <div class="legend-row"><span class="swatch" style="background:#fb6a4a"></span> High</div>
+        <div class="legend-row"><span class="swatch" style="background:#de2d26"></span> Severe</div>
+        <div class="legend-row"><span class="swatch" style="background:#67000d"></span> Extreme</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Limitations</h2>
+    <ul>
+      <li>GTD and UCDP use different definitions of what counts as a "terrorism" incident, so pre-2018 and post-2018 figures are not perfectly comparable in scale.</li>
+      <li>Small or disputed territories (e.g. Antarctica, Greenland, Northern Cyprus, Somaliland) may show "no data" either due to genuinely low recorded activity or incomplete coverage in the source datasets.</li>
+      <li>Some countries that changed names or borders historically (e.g. the two Congos) may have a small number of older incidents recorded under a historical name not captured in this analysis.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>References &amp; Links</h2>
+    <ul>
+      <li>National Consortium for the Study of Terrorism and Responses to Terrorism (START). (2024). <em>Global Terrorism Database</em>. Retrieved from start.umd.edu/gtd</li>
+      <li>Uppsala Conflict Data Program (UCDP). <em>UCDP Georeferenced Event Dataset (GED)</em>. Uppsala University. Retrieved from ucdp.uu.se</li>
+      <li><a href="https://colab.research.google.com/drive/1T_HPE2ywiR5-bNDG-9E2oBukDDcw36r1?usp=sharing" target="_blank">View the full data cleaning &amp; analysis notebook (Google Colab)</a></li>
+      <li><a href="https://github.com/Aswin9198/Global-Terrorism-Analysis" target="_blank">View the project source code (GitHub)</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Built by Aswin, 2026.</p>
+  </footer>
+
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
