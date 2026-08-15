@@ -1,92 +1,169 @@
+:root {
+  --ink: #1c1a17;
+  --paper: #f2f0ec;
+  --surface: #ffffff;
+  --accent: #7a2530;
+  --muted: #6b6459;
+  --line: #ddd8cf;
+}
+
+* { box-sizing: border-box; }
+
 body {
   margin: 0;
-  font-family: -apple-system, Segoe UI, Roboto, sans-serif;
-  color: #222;
-  line-height: 1.6;
-  background: #fafafa;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  line-height: 1.65;
 }
+
+h1, h2 {
+  font-family: 'Source Serif 4', serif;
+  font-weight: 600;
+  margin: 0;
+}
+
+#topnav {
+  position: sticky;
+  top: 0;
+  z-index: 900;
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  background: rgba(242,240,236,0.92);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--line);
+  padding: 14px 32px;
+}
+.nav-brand {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  margin-right: 8px;
+}
+#topnav a {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+#topnav a:hover { color: var(--accent); }
 
 .report {
-  max-width: 900px;
+  max-width: 760px;
   margin: 0 auto;
-  padding: 40px 24px 80px;
+  padding: 60px 24px 90px;
 }
 
-header h1 {
-  font-size: 30px;
-  margin-bottom: 6px;
+header { text-align: center; margin-bottom: 40px; }
+.eyebrow {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 10px;
 }
+header h1 {
+  font-size: 44px;
+  line-height: 1.1;
+}
+header h1 span { color: var(--accent); }
 .byline {
-  color: #666;
+  color: var(--muted);
   font-size: 14px;
-  margin-top: 0;
+  margin-top: 14px;
+}
+
+.statband {
+  display: flex;
+  justify-content: center;
+  gap: 48px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 28px 20px;
+  margin-bottom: 56px;
+}
+.stat { text-align: center; }
+.stat-num {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--accent);
+}
+.stat-label {
+  font-size: 12px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 4px;
 }
 
 section {
-  margin-top: 44px;
+  margin-top: 56px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
 }
 section h2 {
-  font-size: 22px;
-  border-bottom: 2px solid #ddd;
-  padding-bottom: 6px;
+  font-size: 24px;
+  margin-bottom: 14px;
+}
+section p, section li { color: #34302a; }
+
+.callout {
+  background: var(--surface);
+  border-left: 3px solid var(--accent);
+  padding: 14px 18px;
+  font-size: 14.5px;
+  border-radius: 0 4px 4px 0;
 }
 
-.finding {
-  margin: 24px 0;
-}
+.finding { margin: 28px 0; }
 .finding img {
   max-width: 100%;
-  border-radius: 6px;
-  box-shadow: 0 1px 8px rgba(0,0,0,0.15);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: var(--surface);
+  padding: 10px;
 }
-.finding p {
-  margin-top: 10px;
-}
+.finding p { margin-top: 12px; font-size: 15px; }
 
 #map-wrapper {
   position: relative;
   height: 550px;
-  margin-top: 16px;
-  border-radius: 8px;
+  margin-top: 18px;
+  border: 1px solid var(--line);
+  border-radius: 4px;
   overflow: hidden;
-  box-shadow: 0 1px 10px rgba(0,0,0,0.2);
 }
-#map {
-  height: 100%;
-  width: 100%;
-}
+#map { height: 100%; width: 100%; }
 
 #legend {
   position: absolute;
   bottom: 16px;
   right: 10px;
   z-index: 1000;
-  background: white;
+  background: var(--surface);
   padding: 10px 14px;
-  border-radius: 6px;
-  box-shadow: 0 1px 6px rgba(0,0,0,0.3);
+  border: 1px solid var(--line);
+  border-radius: 4px;
   font-size: 12px;
 }
-.legend-title {
-  font-weight: bold;
-  margin-bottom: 6px;
-}
-.legend-row {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  margin-bottom: 2px;
-}
-.swatch {
-  width: 14px;
-  height: 14px;
-  display: inline-block;
-  border-radius: 2px;
-}
+.legend-title { font-weight: 600; margin-bottom: 6px; }
+.legend-row { display: flex; align-items: center; gap: 6px; margin-bottom: 2px; }
+.swatch { width: 14px; height: 14px; display: inline-block; border-radius: 2px; }
 
 footer {
-  margin-top: 60px;
+  margin-top: 70px;
   text-align: center;
-  color: #999;
+  color: var(--muted);
   font-size: 13px;
+}
+
+@media (max-width: 600px) {
+  #topnav { gap: 12px; padding: 12px 16px; overflow-x: auto; }
+  header h1 { font-size: 32px; }
+  .statband { gap: 24px; flex-wrap: wrap; }
 }
