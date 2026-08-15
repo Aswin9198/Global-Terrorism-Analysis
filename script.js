@@ -48,6 +48,13 @@ fetch('country_stats.json')
   .then(response => response.json())
   .then(data => {
     countryStats = data;
+    let sumAttacks = 0, countWithData = 0;
+Object.values(data).forEach(c => {
+  sumAttacks += c.total_attacks;
+  if (c.total_attacks > 0) countWithData++;
+});
+document.getElementById('stat-total').textContent = sumAttacks.toLocaleString();
+document.getElementById('stat-countries').textContent = countWithData;
     loadMap();
   });
 
